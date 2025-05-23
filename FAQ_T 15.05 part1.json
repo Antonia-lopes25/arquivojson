@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "questions": [
+      "O botão 'continuar' não está habilitado. Como posso resolver esse problema?",
+      "Cade minha loja?",
+      "botao continuar não funciona",
+      "não recebi minha loja",
+      "acabei de concluir o passo 1 e criei minha conta na Shopify, mas agora estou tentando seguir para o passo 2 e o botão não está disponível. O que devo fazer?"
+    ],
+    "answer": "Para resolver isso, primeiro clique no botão **Abrir Shopify**. Se ainda não funcionar, tente sair da sua conta, limpar os dados de navegação do navegador e entrar novamente na Universidade DropLatam. Caso o problema continue, me avise que te ajudamos rapidinho! 😉",
+    "metadata": {
+     "category": "botão > continuar",
+      "keywords": [
+        "botão continuar",
+        "erro",
+        "erro de acesso",
+        "Abrir Shopify",
+        "Sair Shopify",
+        "Universidade DropLatam"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 2,
+    "questions": [
+      "Ao tentar realizar o cadastro no formulário de resgate da loja, o sistema acusou que meu e-mail é inválido. Como posso resolver esse problema?",
+      "Ta dando e-mail inválido",
+      "não aceita meu email",
+      "como assim invalido?"
+    ],
+    "answer": "Isso deve estar acontecendo porque seu e-mail já está cadastrado no nosso banco de dados. Para resolver isso, acesse o [formulário de resgate de loja](https://lojadroplatam.prostore.ai/pages/ce10k-loja-eu-webapp) e faça o cadastro com um e-mail que ainda não tenha vínculo com a Shopify. Se precisar de ajuda, me avise! 😉",
+    "metadata": {
+      "category": "login",
+      "keywords": [
+        "cadastro",
+        "formulário de resgate",
+        "erro de cadastro",
+        "resgate de loja",
+        "e-mail inválido",
+        "Shopify",
+        "link"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 3,
+    "question": [
+      "Esqueci de mudar o país ao criar minha conta. O que devo fazer?",
+      "Eu infelizmente não selecionei a opção país na hora de colocar o email, quando começo de novo o processo não aparece mais essa opção de país, como devo proceder?"
+    ],
+    "answer": {
+      "next_question_id": 31
+    },
+    "metadata": {
+      "category": "Localização",
+      "keywords": [
+        "país",
+        "localização",
+        "bandeira",
+        "endereço de faturamento",
+        "mudança de localização",
+        "edição",
+        "aula 05"
+      ],
+      "last_updated": "24/02/2024"
+    }
+  },
+  {
+    "id": 4,
+    "questions": [
+      "Comprei o pacote adicional de 20 produtos da DropLatam, mas minha loja mostra apenas 5 produtos instalados. O que devo fazer?",
+      "Cade os 20 produtos?",
+      "não recebi os 20 produtos"
+    ],
+    "answer": "O combo de 20 produtos que você comprou não é instalado automaticamente na sua loja. Para saber como resgatar, acesse este link: [Como instalar meu Combo de 20 produtos](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314887-combo-de-20-produtos).\n\nSe depois de seguir o tutorial você ainda não conseguir acessar os produtos, me avise aqui no chat que a gente te ajuda rapidinho! 🚀",
+    "next_question_id": 49,
+    "metadata": {
+      "category": "produtos extras",
+      "keywords": [
+        "pacote adicional",
+        "20 produtos",
+        "Combo 20",
+        "PDF",
+        "Combo",
+        "comunidade",
+        "sincronização"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 5,
+    "questions": [
+      "Tenho uma conta existente na Shopify. Posso usá-la para configurar minha loja?",
+      "Posso usar minha conta?",
+      "Já coloquei email, mas a bandeira não aparece pra mim",
+      "Coloquei o email mas não aparece a opção de país",
+      "Já tenho uma conta com uma loja na shopify, porém não uso mais, posso ter uma outra loja?"
+    ],
+    "answer": "Entendi! 😊 Para que sua loja funcione certinho no modelo de Contra Entrega ensinado no curso, a conta precisa ser criada do zero com as configurações corretas para o mercado internacional.\n\nSe você usar uma conta pré-existente da Shopify, pode acabar pulando etapas essenciais e isso pode gerar problemas na configuração da loja.\n\nPor isso, o ideal é criar uma nova conta do zero, usando o link e o passo a passo indicado na [aula 05](https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414796/lessons/1551962).",
+    "activation_condition": {
+      "must_include_terms": [
+        "shopify",
+        "conta",
+        "bandeira",
+        "país"
+      ],
+      "match_type": "contains_any"
+    },
+    "metadata": {
+      "category": "Conta pre-existente",
+      "keywords": [
+        "Shopify",
+        "mercado europeu",
+        "criação de conta",
+        "contra entrega",
+        "bandeira",
+        "configuração",
+        "conta existente"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 6,
+    "question1": "Minha loja foi criada, mas não exibe banner nem produtos. O que devo fazer?",
+    "question1_variation": [],
+    "question2": "Você selecionaria alguma das opções a seguir: SIM, NAO?",
+    "options": {
+      "SIM": {
+        "answer": "Perfeito! 😊 Nesse caso, dá uma olhadinha nesse passo a passo que mostra como instalar corretamente o app e ativar sua loja:\n\n👉 [Resgatar minha loja - instalando o ProStore](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314855-como-instalar-o-app-prostore-na-minha-loja)\n\nSe você já seguiu tudo direitinho e mesmo assim a loja continua sem os produtos ou banners, me avisa aqui no chat que a gente resolve isso rapidinho, combinado?",
+        "force_exclusive": true
+      },
+      "NAO": {
+        "answer": "Ah, entendi! A criação da loja acontece em etapas, e instalar o app ProStore AI é uma parte essencial. Dá uma olhada nesse tutorial completo com o passo a passo:\n\n👉 [Como resgatar minha loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314877-como-resgatar-minha-loja-pronta)\n\nDepois de seguir o guia, se ainda tiver qualquer dificuldade, me chama aqui no chat que a gente resolve juntos! 😉",
+        "force_exclusive": true
+      }
+    },
+    "await_response": true
+  },
+  {
+    "id": 7,
+    "questions": [
+      "No formulário de resgate da loja, o botão 'Quero Participar' não está funcionando. O que devo fazer?",
+      "o botão Quero Participar nao funciona",
+      "marquei a caixinha, mas o botão não funcionou"
+    ],
+    "answer": "Para habilitar o botão ‘Quero Participar’, basta marcar a caixinha abaixo dele, onde diz ‘Ao informar meus dados, eu concordo com a Política de Privacidade.’\n\nSe o botão ainda não funcionar, tente limpar os dados de navegação do seu navegador e acessar o formulário de resgate de loja novamente.\n\nSe mesmo assim o problema continuar, me avise aqui no chat que a gente te ajuda rapidinho! 😉",
+    "metadata": {
+      "category": "botão > quero participar",
+      "keywords": [
+        "botão",
+        "Quero Participar",
+        "caixinha",
+        "erro no formulário",
+        "formulário de resgate",
+        "resgate da loja"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 8,
+    "question": "Não consigo configurar o domínio. O que devo fazer?",
+    "answer": "Para conectar seu domínio na Shopify, siga estes passos:\n\n1️⃣ Acesse sua conta na **Shopify**.\n2️⃣ Vá até **Configurações** > **Domínio**.\n3️⃣ Insira o domínio e clique em **Verificar Conexão**.\n\nPara mais detalhes, confira este tutorial completo: [Como Configurar um Domínio Hostgator na Shopify](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314856-como-conectar-meu-dom%C3%ADnio).\n\nCaso o problema persista, recomendo que você entre em contato com o nosso time responsável por questões relacionadas ao HostGator através do link: [api.whatsapp.com](https://api.whatsapp.com/send/?phone=5548988201114&text&type=phone_number&app_absent=0).\n\nSe precisar de mais alguma ajuda, me avise aqui no chat! 😉",
+    "next_question_id": 49,
+    "metadata": {
+      "category": "Domínio",
+      "keywords": [
+        "domínio",
+        "configurar domínio",
+        "Shopify",
+        "Hostgator",
+        "verificar conexão",
+        "erro no domínio",
+        "suporte do curso"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 9,
+    "questions": [
+      "Não consigo fazer a integração entre a DropLatam e a Shopify. Como posso resolver isso?",
+      "Não consigo realizar a integração entre a DropLatam e a Shopify?"
+    ],
+    "answer": "Para integrar a plataforma da DropLatam com a Shopify, siga as instruções deste tutorial: [Como fazer a integração entre Shopify e DropLatam](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314902-como-sincronizar-a-droplatam-com-shopify).\n\nSe depois de seguir o passo a passo a integração não funcionar, entre em contato com o **suporte do curso** através deste link: [Suporte DropLatam](https://suporte.droplatam.com.br/hc/pt-br).\n\nQualquer outra dúvida, me chama aqui no chat! 😉",
+    "next_question_id": 49,
+    "metadata": {
+      "category": "curso",
+      "keywords": [
+        "integração",
+        "integração DropLatam",
+        "erro de integração",
+        "suporte do curso",
+        "DropLatam",
+        "Shopify"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 10,
+    "questions": [
+      "Após informar os dados do cartão de crédito, devo inserir meu endereço? Como proceder?",
+      "que endereço coloco no pagamento?",
+      "na parte do plano pede um endereço, oque eu coloco?"
+    ],
+    "answer": "Para a assinatura do plano, é importante que você insira um endereço válido da Espanha. Utilize os seguintes dados:\n\n📍 **Rua:** Puerta del Sol, 14\n📍 **Código Postal:** 28013\n📍 **Cidade:** Madrid\n📍 **Província:** Comunidad de Madrid\n📍 **País:** Espanha\n📞 **Telefone:** 34756404444\n\nCaso tenha mais dúvidas, estamos aqui para ajudar!",
+    "metadata": {
+      "category": "endereço",
+      "keywords": [
+        "endereço",
+        "assinatura",
+        "endereço de faturamento",
+        "cartão de crédito",
+        "Espanha",
+        "localização"
+      ],
+      "last_updated": "24/02/2024"
+    }
+  },
+  {
+    "id": 11,
+    "questions": [
+      "Durante a customização da minha loja, percebi que o tema instalado é o Dawn e não o Loja DropLatam. O que aconteceu?",
+      "Cade o tema?",
+      "não foi instalado o tema de vocês",
+      "porque tem o tema Dawn?"
+    ],
+    "answer": "Nosso sistema passou por atualizações e, por isso, o tema Loja DropLatam foi substituído pelo tema Dawn. Todas as customizações da sua loja serão aplicadas normalmente nesse novo tema. Se precisar de mais alguma coisa, estamos à disposição para ajudar!",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "customização",
+        "tema Dawn",
+        "Loja DropLatam",
+        "atualizações",
+        "personalização"
+      ],
+      "last_updated": "24/02/2024"
+    }
+  },
+  {
+    "id": 12,
+    "question1": "Não consigo encontrar o país Espanha na lista durante a criação da conta na Shopify",
+    "question1_variation": [
+      "Não acho Espanha na Shopify",
+      "Onde está o país Espanha?",
+      "Não aparece Espanha pra mim",
+      "Não tem opção Espanha na criação de conta"
+    ],
+    "question2": "Você esta tentando criar uma nova loja **do zero** ou usar uma já **existente**?",
+    "options": {
+      "DO ZERO": "Entendi! 😊 Esse erro está acontecendo porque o e-mail que você usou já está ligado a uma conta antiga na Shopify. Para criar a loja do zero e seguir todas as etapas do modelo de Contra Entrega que mostramos no curso, você precisa usar um endereço de e-mail que ainda não tenha cadastro na plataforma.",
+      "EXISTENTE": {
+        "answer": "Ah, entendi!",
+        "next_question_id": 2,
+        "force_exclusive": true
+      }
+    },
+    "metadata": {
+      "category": "Localização",
+      "keywords": [
+        "Espanha",
+        "país",
+        "idioma",
+        "Shopify",
+        "Spain",
+        "criar conta",
+        "email já usado"
+      ],
+      "last_updated": "21/03/2025"
+    },
+    "await_response": true
+  },
+  {
+    "id": 13,
+    "questions": [
+      "Recebi um e-mail da Shopify informando que infringi as políticas da plataforma e que minha conta será cancelada. O que devo fazer?",
+      "minha loja foi bloqueada?",
+      "aparece a mensagem This store is unavailable",
+      "minha loja sumiu"
+    ],
+    "answer": "Entendo como isso pode ser frustrante. 😕 A Shopify realiza algumas verificações de conta aleatoriamente, e por algum motivo, a sua pode ter sido bloqueada.\n\nPara que possamos entender melhor o que aconteceu e te ajudar, preciso que nos envie algumas informações:\n\n✅ **Seu e-mail de acesso **\n✅ **Senha da loja**\n\nCaso já tenha enviado essas informações, peço que aguarde enquanto direcionamos seu caso para um atendente. Essas informações são essenciais para que possamos te ajudar o mais rápido possível. Qualquer dúvida, me avise! 😉",
+    "metadata": {
+      "category": "bloqueio",
+      "keywords": [
+        "Shopify",
+        "cancelamento",
+        "conta bloqueada",
+        "bloqueio",
+        "unavailable",
+        "loja bloqueada",
+        "loja sumiu"
+      ],
+      "last_updated": "14/03/2025"
+    },
+    "activation_condition": {
+      "must_include_terms": [
+        "store is unavailable",
+        "loja inativa",
+        "loja sumiu",
+        "conta bloqueada",
+        "acesso",
+        "bloqueio",
+        "infringi"
+      ],
+      "match_type": "contains_any"
+    }
+  },
+  {
+    "id": 14,
+    "question1": "Assinei o plano da Shopify, mas minha loja não foi criada e está sem produtos e banners. Como devo proceder?",
+    "question1_variation": [],
+    "question2": "Você selecionaria alguma das opções a seguir: BASIC, OUTRO, STARTER?",
+    "options": {
+      "BASIC": {
+        "answer": "Se você chegou na parte de **ativação do plano**, significa que está bem perto de concluir! 🚀\n\nPara te ajudar, aqui está um link que explica direitinho o processo de resgate de lojas: [Resgatar minha loja - instalando o ProStore](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314855-como-instalar-o-app-prostore-na-minha-loja).\n\nSe depois de seguir o tutorial o problema continuar, me avise aqui no chat que a gente te ajuda rapidinho! 😉",
+        "force_exclusive": true
+      },
+      "OUTRO": {
+        "answer": "Nós recomendamos o plano Basic porque ele tem muitos benefícios e é mais barato, assim você paga 1$ nos primeiros 3 meses sem pesar no bolso",
+        "force_exclusive": true
+      },
+      "STARTER": {
+        "answer": "Puxa, o plano Starter não permite personalizar o tema, por isso o ProStore AI não consegue validar seu plano. Mas você não precisa pagar novamente, é só trocar o plano clicando em: \n\nConfigurações, \n\nPlano, \n\nTrocar faturação",
+        "force_exclusive": true
+      }
+    },
+    "await_response": true
+  },
+  {
+    "id": 15,
+    "questions": [
+      "Ao acessar minha conta na Shopify, percebi que a loja está em inglês e não consegui dar continuidade. Como posso resolver esse problema?",
+      "porque minha pagina esta em portugues?",
+      "Minha loja esta em ingles, não consigo continuar",
+      "como mudar o idioma da loja?",
+      "tá tudo em inglês"
+    ],
+    "answer": "Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!",
+    "metadata": {
+      "category": "idioma",
+      "keywords": [
+        "idioma",
+        "Shopify",
+        "mudar idioma",
+        "painel",
+        "inglês",
+        "configurações da loja",
+        "loja em inglês"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 16,
+    "questions": [
+      "Concluí a criação da minha loja, mas percebi que os banners estão em espanhol. Isso é normal?",
+      "produtos em espanhol?"
+    ],
+    "answer": "Sim, está tudo certo. Os banners e o idioma da sua loja devem estar em espanhol, pois seus clientes são da Espanha. Se o painel de administração estiver em outro idioma, você pode alterá-lo facilmente, é só conferir as instruções do artigo [Como mudar o idioma](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o). Se precisar de mais alguma coisa, estamos aqui para ajudar!",
+    "metadata": {
+      "category": "idioma",
+      "keywords": [
+        "banners",
+        "idioma",
+        "espanhol",
+        "Shopify",
+        "alterar idioma"
+      ],
+      "last_updated": "24/02/2024"
+    }
+  },
+  {
+    "id": 17,
+    "questions": [
+      "Gostaria de solicitar reembolso do curso.",
+      "quero a devolução do valor por favor",
+      "quero meus 27 reais de volta",
+      "quero meu dinheiro de volta",
+      "quero reembolso"
+    ],
+    "answer": "Sentimos muito que você queira solicitar o reembolso. 😕\n\nTemos uma equipe que pode te ajudar a montar sua loja! Antes de seguir com o reembolso, gostaríamos de entender em que etapa você parou e como podemos te auxiliar a concluir sua loja.\n\nCaso prefira realmente solicitar o reembolso, aqui estão as informações detalhadas sobre o processo: [Requisitos do reembolso](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314885-reembolso-do-curso).\n\n🔹 Para falar diretamente com a equipe comercial e solicitar o reembolso, acesse este link: [Suporte Comercial - Reembolso](https://droplatam.com.br/pages/contato-ajuda-comercial).\n\nSe precisar de algo mais, estou por aqui para te ajudar! 😉",
+    "metadata": {
+      "category": "reembolso",
+      "keywords": [
+        "Reembolso",
+        "Droplatam",
+        "devolução",
+        "valor",
+        "curso Droplatam",
+        "curso",
+        "dinheiro",
+        "27",
+        "reais"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 18,
+    "question": "Gostaria de solicitar reembolso da Shopify",
+    "answer": "Para resolver essa questão, você deve entrar em contato direto com o suporte da Shopify.\n\nVocê pode solicitar ajuda sem precisar entrar na sua conta [Suporte Shopify](https://help.shopify.com/pt-BR/support/topic-select/login-issue/contact/email).\n\nSe precisar de mais alguma coisa, me avise! 😉",
+    "metadata": {
+      "category": "reembolso",
+      "keywords": [
+        "Reembolso",
+        "Droplatam",
+        "devolução",
+        "valor",
+        "dinheiro",
+        "Shopify"
+      ],
+      "last_updated": "14/03/2025"
+    }
+  },
+  {
+    "id": 19,
+    "questions": "Durante a assinatura do plano Basic da Shopify, apareceu uma mensagem sobre o imposto IVA da Espanha. O que devo fazer?",
+    "answer": "A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!",
+    "metadata": {
+      "category": "Imposto",
+      "keywords": [
+        "IVA",
+        "imposto",
+        "precificação",
+        "21%",
+        "Shopify"
+      ],
+      "last_updated": "26/03/2024"
+    }
+  },
+  {
+    "id": 20,
+    "questions": [
+      "Durante a instalação do aplicativo Pro Store AI, foi solicitado um código de acesso. Onde posso encontrá-lo?",
+      "Esta pedindo um código para instalar o app",
+      "Meu código especial está dando como inválido"
+    ],
+    "answer": "O código de acesso ao Pro Store AI é pessoal e intransferível, servindo para identificar que você é aluno do curso. Ele está disponível na descrição da [**aula 05** – 'Pegue aqui sua aula profissional'](https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414796/lessons/1551962) como pode ver neste artigo sobre [como instalar o Pro Store AI](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314855-como-instalar-o-app-prostore-na-minha-loja). Se estiver tendo dificuldades para localizá-lo, por favor, envie seu e-mail de cadastro no formulário de resgate da loja para que possamos ajudar você.",
+    "metadata": {
+      "category": "Aplicativo",
+      "keywords": [
+        "código de acesso",
+        "Pro Store AI",
+        "aluno",
+        "app",
+        "aula 05",
+        "descrição",
+        "resgate da loja"
+      ],
+      "last_updated": "24/02/2024"
+    }
+  },
+  {
+    "id": 21,
+    "questions": [
+      "Estou na etapa de precificação dos produtos da minha loja e percebi que os valores estão em real, e não em euro como nas aulas. Como posso alterar a moeda?",
+      "como mudar os valores para euro?",
+      "minha loja aparece os produtos em real do brasil, como mudar?"
+    ],
+    "answer": "Para mudar a moeda da sua loja, é só seguir as instruções deste tutorial: [Como Mudar a moeda da loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314881-como-mudar-a-moeda-da-minha-loja).\n\nSe mesmo após seguir o passo a passo você ainda tiver dificuldade, me avisa aqui no chat que a gente te ajuda rapidinho! 😉",
+    "metadata": {
+      "category": "Moeda",
+      "keywords": [
+        "alterar moeda",
+        "configuração de moeda",
+        "moeda corrente",
+        "erro na moeda",
+        "mudar moeda",
+        "moeda"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 22,
+    "questions": [
+      "Minha loja está pronta, mas percebi que não veio com a logo, políticas e termos de serviço. Como devo proceder?",
+      "minha loja tá sem as políticas",
+      "minha loja veio sem logo",
+      "minha loja veio sem políticas"
+    ],
+    "answer": "Vou te mandar um link que mostra certinho tudo o que é instalado na sua loja: [Oque vem na minha loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000315559-oque-vem-na-minha-loja-pronta-).\n\nSe você perceber que algum dos itens listados não foi instalado, me avisa aqui no chat. Aí a gente te encaminha para o suporte, eles vão responder em até 1 dia útil, no e-mail que você usou aqui no chat 😊\n\nPra agilizar, peço que envie seu **email e senha da Shopify**. Assim conseguimos te ajudar mais rápido! 😉",
+    "metadata": {
+      "category": "configuração",
+      "keywords": [
+        "loja pronta",
+        "logo",
+        "políticas",
+        "termos de serviço",
+        "problema na loja",
+        "criação de loja"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 23,
+    "questions": [
+      "Ao concluir a criação da minha loja, percebi que o sistema está solicitando uma senha para acessá-la. O que devo fazer?",
+      "minha loja esta pedindo senha ainda",
+      "terminei a loja e pediu uma senha, qua a senha?",
+      "como eu tiro a senha da loja?"
+    ],
+    "answer": "Fica tranquilo, dá pra resolver isso rapidinho. Vou te mandar um link que explica certinho o que é essa senha e como remover: [Como Remover a senha da loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314890-como-remover-a-senha-da-loja).\n\nSe mesmo assim o problema continuar, me chama aqui no chat que te ajudo na hora! 😉",
+    "metadata": {
+      "category": "configuração",
+      "keywords": [
+        "senha",
+        "acesso",
+        "remover senha",
+        "senha da loja",
+        "remover senha",
+        "acesso à loja",
+        "criação de loja"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 24,
+    "questions": [
+      "Estou na etapa de assinatura do plano Basic da Shopify, mas não tenho cartão de crédito. O que posso fazer?",
+      "Não tenho cartão de crédito",
+      "não aceita meu cartão",
+      "cartão recusado",
+      "só tenho cartão de débito",
+      "débito",
+      "crédito"
+    ],
+    "answer": "A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉",
+    "metadata": {
+      "category": "plano",
+      "keywords": [
+        "cartão de crédito",
+        "assinatura",
+        "assinatura Shopify",
+        "plano Basic",
+        "débito",
+        "cartão",
+        "ativar plano Shopify"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 25,
+    "question": [
+      "Quero criar uma loja em outra plataforma, pois não desejo utilizar a Shopify. Como posso proceder?",
+      "Posso usar outra plataforma pra criar minha loja?",
+      "não quero criar minha loja na shopify"
+    ],
+    "answer": "Temos uma parceria com a Shopify, e por isso você pode testar a plataforma **de graça por 3 dias**. E se você é aluno do nosso curso, ainda ganha um **super desconto por 3 meses**! 😄\n\nComo usamos a Shopify, sua loja já vem pronta no modelo que eles oferecem — ou seja, **não enviamos arquivos separados** com tema e produtos. Tudo é instalado direto na Shopify de forma automática. \n\nPra seguir com a criação da sua loja, é só assistir à [**aula 05**](https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414796/lessons/1551962) do curso. Lá tem o passo a passo pra você resgatar sua loja e continuar tranquilo!\n\nQualquer dúvida, me chama aqui no chat! 😉",
+    "metadata": {
+      "category": "Resgate de loja",
+      "keywords": [
+        "parceria",
+        "Shopify",
+        "teste gratuito",
+        "desconto",
+        "customizações",
+        "curso",
+        "resgate de loja",
+        "parceria Shopify",
+        "teste grátis",
+        "desconto Shopify",
+        "loja automática"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  }
+]

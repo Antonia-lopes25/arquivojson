@@ -1,0 +1,201 @@
+[
+  {
+    "id": 49,
+    "question": "Por onde eu acesso o curso da DropLatam?",
+    "question_variation": [
+      "Não consigo acessar a universidade",
+      "Não consigo entrar no curso",
+      "Onde entro pra ver as aulas?",
+      "Qual o link da universidade DropLatam?",
+      "Onde vejo meu curso da DropLatam?"
+    ],
+    "question2": "Você está com problema para acessar o curso ou já acessou e encontrou algum erro dentro da plataforma?",
+    "options": {
+      "ACESSAR": {
+        "answer": "Ótimo! Você pode acessar a plataforma do curso da DropLatam por aqui:\n\n👉 [universidade.droplatam](https://universidade.droplatam.com.br/)\n\nUse o mesmo e-mail que você usou na hora da compra. Qualquer coisa, me chama por aqui!",
+        "force_exclusive": true
+      },
+      "ERRO": {
+        "answer": "Entendi! Se você já está dentro da plataforma, mas encontrou algum erro ou algo que não está funcionando como esperado, o ideal é falar direto com o nosso suporte educacional. É só acessar:\n\n👉 [suporte.droplatam.com.br](https://suporte.droplatam.com.br)\n\nEles vão te ajudar com qualquer questão ligada às aulas, integrações ou acesso ao conteúdo.",
+        "activation_condition": {
+          "enforce_keywords": [
+            "dropi",
+            "colombiano",
+            "mercado"
+          ],
+          "match_type": "contains_any",
+          "contextual_match": true
+        },
+        "next_question_id": 49,
+        "force_exclusive": true
+      }
+    },
+    "metadata": {
+      "category": "Acesso ao Curso",
+      "keywords": [
+        "acesso ao curso",
+        "universidade drop",
+        "ver aulas",
+        "link do curso",
+        "erro no curso",
+        "problema na plataforma",
+        "dropi",
+        "Envios",
+        "agregar produtos",
+        "mercado colombiano",
+        "integração"
+      ],
+      "last_updated": "28-Mar-2025"
+    },
+    "await_response": true
+  },
+  {
+    "id": 50,
+    "question": "Posso mudar minha loja da **Espanha para a Colômbia**?",
+    "question_variation": [
+      "Quero trocar o país da loja, da **Colombia para a Espanha**"
+    ],
+    "answer": "Para esse tipo de solicitação, o ideal é conversar com nosso time comercial. 😉\n\nVocê pode entrar em contato por aqui:\n👉 [droplatam.com.br/ajuda-comercial](https://droplatam.com.br/pages/contato-ajuda-comercial)",
+    "activation_condition": {
+      "must_include_terms": [
+        "espanha",
+        "colômbia"
+      ],
+      "match_type": "coexist_in_same_question"
+    },
+    "same_context": true,
+    "metadata": {
+      "category": "Localização da loja",
+      "keywords": [
+        "mudança de país",
+        "trocar país da loja",
+        "Espanha",
+        "Colômbia",
+        "vender em outro país"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 51,
+    "question": "Fui contatado por um número estranho",
+    "question_variation": [
+      "Recebi uma mensagem de um número desconhecido",
+      "Alguém me chamou no WhatsApp e não sei quem é",
+      "Tive uma ligação suspeita sobre a DropLatam",
+      "Esse número é da equipe de vocês?"
+    ],
+    "question2": "Foi um destes números de WhatsApp?\n\n(1) +1 (503) 512-6938\n(2) 48 8820-1114",
+    "options": {
+      "SIM": {
+        "answer": "Fique tranquilo! 😊 Esse número é da equipe de suporte da Hostgator, que faz parte do time da Droplatam. Pode confiar!",
+        "force_exclusive": true
+      },
+      "NÃO": {
+        "answer": "Certo! Nesse caso, recomendamos **não interagir** com o número e tomar cuidado.😉",
+        "force_exclusive": true
+      }
+    },
+    "activation_condition": {
+      "must_include_terms": [
+        "número",
+        "whatsapp",
+        "estranho",
+        "desconhecido",
+        "ligação",
+        "contato"
+      ],
+      "match_type": "semantic_match_any"
+    },
+    "metadata": {
+      "category": "Contato",
+      "keywords": [
+        "número estranho",
+        "mensagem desconhecida",
+        "whatsapp",
+        "contato suspeito",
+        "verificação de número",
+        "segurança"
+      ],
+      "last_updated": "28-Mar-2025"
+    },
+    "await_response": true
+  },
+  {
+    "id": 52,
+    "question": "Como configurar meu domínio na loja?",
+    "question_variation": [
+      "Como conectar domínio da HostGator na Shopify?",
+      "É possível usar um domínio da GoDaddy?",
+      "Tenho domínio no registro-br, consigo usar?",
+      "Dá pra usar domínio da Hostinger na loja?"
+    ],
+    "question2": "Você está usando a HostGator como plataforma de domínio?",
+    "options": {
+      "SIM": {
+        "answer": "Perfeito! Dá uma olhadinha neste tutorial com o passo a passo completo:\n\n👉 [Como configurar um domínio Hostgator na Shopify](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314856-como-conectar-meu-dom%C3%ADnio)\n\nCaso o problema persista, recomendo que você entre em contato com o nosso time responsável por questões relacionadas ao HostGator através do link: [api.whatsapp.com](https://api.whatsapp.com/send/?phone=5548988201114&text&type=phone_number&app_absent=0).\n\nSe precisar de mais alguma ajuda, me avise aqui no chat! 😉",
+        "activation_condition": {
+          "must_include_terms": [
+            "hostgator"
+          ],
+          "match_type": "contains_any"
+        },
+        "next_question_id": 8,
+        "force_exclusive": true
+      },
+      "NÃO": {
+        "answer": "Entendi! Como temos parceria com a HostGator, nosso suporte está focado apenas nessa plataforma. 😕\n\nInfelizmente, não conseguimos te orientar sobre domínios de outras plataformas.\n\nRecomendamos procurar o suporte direto da sua plataforma de domínio ou, se quiser aproveitar nosso desconto, criar um novo domínio pela HostGator. Posso te ajudar com isso se quiser!",
+        "activation_condition": {
+          "must_include_terms": [
+            "godaddy",
+            "hostinger",
+            "registro",
+            "registrobr"
+          ],
+          "match_type": "contains_any"
+        },
+        "force_exclusive": true
+      }
+    },
+    "metadata": {
+      "category": "Domínio",
+      "keywords": [
+        "domínio",
+        "hostgator",
+        "configurar domínio",
+        "shopify"
+      ],
+      "last_updated": "28-Mar-2025"
+    },
+    "await_response": true
+  },
+  {
+    "id": 53,
+    "question": "O problema continua",
+    "question_variation": [
+      "Ainda não resolveu",
+      "O erro continua",
+      "Não funcionou pra mim"
+    ],
+    "question2": "Sua loja já foi criada e está funcionando?",
+    "options": {
+      "LOJA CRIADA": {
+        "answer": "Perfeito! Se a sua loja já está pronta, o ideal é falar com o time da Universidade DropLatam. Eles são especialistas em resolver esse tipo de situação. 😉\n\n👉 [suporte.droplatam.com.br](https://suporte.droplatam.com.br)"
+      },
+      "AINDA ESTOU CRIANDO": {
+        "answer": "Beleza! Se você ainda está na etapa de criação, nosso suporte pode te ajudar com isso, é só mandar seu **e-mail e senha** de acesso da Shopify aqui pra agilizar o atendimento."
+      }
+    },
+    "metadata": {
+      "category": "encaminhamento",
+      "keywords": [
+        "problema continua",
+        "erro persiste",
+        "não funcionou",
+        "suporte curso",
+        "suporte especializado"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  }
+]

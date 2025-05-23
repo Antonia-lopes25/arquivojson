@@ -1,0 +1,39 @@
+{
+  "lesson_mapping": [
+    {
+      "theme": "fretes, mercados, taxas e personalização da loja",
+      "lesson": "Módulo 02 - Aula 01 - Finalizando as configurações da loja",
+      "note": "A aula apresenta as configurações básicas da loja. Quando o aluno perguntar sobre fretes, taxas ou personalizações iniciais, oriente a assistir essa aula."
+    },
+    {
+      "theme": "criação do nome da loja e domínio",
+      "lesson": "Módulo 02 - Aula 02 - Encontrando o nome da loja e registrando o domínio",
+      "note": "A aula ensina a criar o nome da loja, registrar e conectar o domínio. Também menciona e-mail comercial."
+    },
+    {
+      "theme": "criação de e-mail profissional",
+      "lesson": "Módulo 02 - Aula 03 - Criando seu e-mail profissional rápido",
+      "note": "A aula mostra como criar um e-mail comercial pela HostGator."
+    },
+    {
+      "theme": "logotipo para a loja",
+      "lesson": "Módulo 02 - Aula 04 - Criando uma logotipo para sua loja",
+      "note": "Aula ensina a criar a logotipo pelo Canva, de forma simples."
+    },
+    {
+      "theme": "integração com a DropLatam",
+      "lesson": "Módulo 02 - Aula 05 - Conectando a plataforma DropLatam na nossa loja",
+      "note": "Aula explica a integração com a Shopify via Dropify e a configuração da página de vendas."
+    },
+    {
+      "theme": "importação e sincronização de produtos",
+      "lesson": "Módulo 02 - Aula 06 - Como importar e sincronizar produtos da DropLatam na Shopify",
+      "note": "Aula ensina como importar e sincronizar produtos da DropLatam na Shopify."
+    }
+  ],
+  "rules": [
+    {
+      "instruction": "Essas informações sobre aulas devem ser usadas apenas para orientar o aluno a consultar o curso. Nunca tente explicar o conteúdo técnico da aula, nem substituí-la com uma resposta genérica. Não confunda essas informações com o FAQ oficial."
+    }
+  ]
+}

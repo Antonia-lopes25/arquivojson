@@ -1,0 +1,480 @@
+[
+  {
+    "id": 26,
+    "question": [
+      "Durante a criação da minha conta na Shopify, acabei criando outras lojas. Como posso deletá-las?",
+      "acho que tem mais de uma loja na minha conta"
+    ],
+    "answer": "Fica tranquilo, vamos resolver isso rapidinho. 😊\n\nVou te enviar um tutorial que mostra como identificar se há mais de uma loja vinculada à sua conta e também como desativar essas lojas: [Tenho mais de uma loja, oque fazer agora](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000315553-acho-que-tenho-mais-de-uma-loja-ativa).\n\nSe mesmo após seguir o passo a passo você não conseguir desativar as lojas, me avise aqui no chat. Aí você pode me passar seu **email e senha da Shopify** e a gente te encaminha para um atendente 😊",
+    "metadata": {
+      "category": "shopify",
+      "keywords": [
+        "deletar loja",
+        "desativar loja",
+        "configurações",
+        "lojas vinculadas"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 27,
+    "question1": "Durante a assinatura do plano Basic, não estou conseguindo efetuar o pagamento. Meu cartão está funcionando, mas a Shopify recusa o pagamento.",
+    "question1_variation": [],
+    "question2": "Você selecionaria alguma das opções a seguir: DEBITO, CREDITO?",
+    "options": {
+      "DEBITO": {
+        "answer": "Neste caso dá uma olhada aqui nos [Requisitos de cartão da Shopify](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314879-requisitos-de-pagamento-da-shopify), pode ajudar a esclarecer essa questão.",
+        "force_exclusive": true
+      },
+      "CREDITO": {
+        "answer": "Se o seu cartão cumpre os requisitos listados nesse link: [Requisitos de cartão da Shopify](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314879-requisitos-de-pagamento-da-shopify)\n\nE ainda assim o pagamento não funcionar, o ideal é falar direto com o suporte da Shopify pelo help.shopify.com. \n\nSe precisar de mais alguma ajuda, me chama aqui no chat! 😉",
+        "force_exclusive": true
+      }
+    },
+    "await_response": true
+  },
+  {
+    "id": 28,
+    "question": [
+      "Estou tentando validar meus documentos para a DropLatam, mas ainda não recebi resposta. O que devo fazer?",
+      "tá dando erro na validação de documento",
+      "não consigo validar meus documentos",
+      "ninguém da validação de documentos me responde"
+    ],
+    "answer": "Vou te enviar um link com todas as instruções pra você fazer a **validação dos seus documentos**: [Autenticação de Identidade](https://suporte.droplatam.com.br/hc/pt-br/articles/30707701157531-Como-realizar-a-Autenticação-de-Identidade).\n\n📌 O prazo de retorno é de **até 72 horas úteis**, e é importante aguardar a resposta da equipe responsável. Se você enviar uma nova mensagem antes do prazo, o tempo de espera zera e começa a contar de novo.\n\nSe as **72 horas úteis** já passaram, [entre em contato com a equipe especializada por aqui](https://suporte.droplatam.com.br/hc/pt-br).\n\nQualquer dúvida, me chama aqui no chat! 😉",
+    "metadata": {
+      "category": "curso",
+      "keywords": [
+        "validação de documentos",
+        "autenticação de identidade",
+        "DropLatam",
+        "verificação de identidade"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 29,
+    "question": [
+      "quero acessar minha loja na Shopify e não consigo. O que devo fazer?",
+      "Não consigo acessar minha loja",
+      "Como faço pra ver minha loja?"
+    ],
+    "question2": "Você já seguiu a aula 05 do curso e criou sua loja, ou ainda não chegou nessa parte?",
+    "question2_required": true,
+    "options": {
+      "SIM, JÁ CRIEI": {
+        "answer": "Legal! 😊 Pra acessar sua loja é só entrar com seu login aqui:\n👉 [shopify.com/login](https://www.shopify.com/login)\n\nSe quiser visualizar como ela aparece para os clientes:\n👉 [Como visualizar minha loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314886-como-visualizar-minha-loja)"
+      },
+      "AINDA NÃO FIZ ISSO": {
+        "answer": "Sem problemas! A aula 05 do curso ensina exatamente como criar sua loja pelo link correto. Dá uma olhadinha aqui para começar: [Aula 05-Pegue aqui sua loja profissional] (https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414796/lessons/1551962). E se precisar, tô aqui pra te ajudar! 😉"
+      }
+    },
+    "metadata": {
+      "category": "shopify",
+      "keywords": [
+        "acesso",
+        "email",
+        "acessar conta Shopify",
+        "painel de administrador",
+        "visualizar loja",
+        "criar loja",
+        "aula 05"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 30,
+    "question": [
+      "Na etapa de assinatura do plano Basic, a Shopify solicita dois endereços. Devo colocar o meu endereço do Brasil?",
+      "Já assinei o plano com outro endereco, como faco para alterar?"
+    ],
+    "answer": "O endereço que você deve usar na Shopify é o da **Espanha**, como orientado pelo expert no curso. Você pode colocar o mesmo endereço nos dois campos.\n\nAqui estão os dados:\n📍 **Rua:** Puerta del Sol, 14\n📍 **Código Postal:** 28013\n📍 **Cidade:** Madrid\n📍 **Província:** Comunidad de Madrid\n📍 **País:** Espanha\n📞 **Telefone:** 34756404444\n\n Se você já criou a com o país errado e quiser ajustar isso, é só seguir esse passo a passo aqui:[Esqueci de mudar o país – o que fazer agora😉](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314882-esqueci-de-mudar-o-pa%C3%ADs)",
+    "metadata": {
+      "category": "endereço",
+      "keywords": [
+        "endereço",
+        "assinatura",
+        "plano Basic",
+        "Shopify",
+        "Espanha",
+        "dados de endereço",
+        "endereço Espanha",
+        "dados para Shopify",
+        "assinatura Shopify",
+        "criação de conta"
+      ],
+      "last_updated": "17/03/2025"
+    }
+  },
+  {
+    "id": 31,
+    "question1": "Posso mudar o endereço da minha loja?",
+    "question1_variation": [
+      "Dá pra trocar o endereço da minha loja depois que ela foi criada?",
+      "Tem como mudar o país da loja depois que ela já foi criada?",
+      "Como alterar o país de cadastro da loja?",
+      "Consigo mudar a localização da loja Shopify depois de criada?",
+      "Não consigo mais alterar para o local da espanha"
+    ],
+    "question2": "Você criou sua loja usando o link indicado na aula 05 do curso?",
+    "options": {
+      "LOJA_PELO_LINK": {
+        "answer": "Show! 😊 Se você criou sua loja usando o link da aula 05, é possível mudar a localização mesmo depois de criada.\n\nSegue um tutorial com o passo a passo para isso:\n👉 [Esqueci de mudar o país – o que fazer agora](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314882-esqueci-de-mudar-o-pa%C3%ADs)\n\nSe tiver qualquer dúvida durante o processo, me chama aqui no chat que te ajudo rapidinho!",
+        "activation_condition": {
+          "must_include_terms": [
+            "link da aula 05",
+            "criei pela aula 05",
+            "fiz pela aula 05",
+            "fiz pelo link indicado",
+            "sim, foi com o link"
+          ],
+          "match_type": "contains_any"
+        },
+        "force_exclusive": true
+      },
+      "LOJA_FORA_DO_LINK": {
+        "answer": "Entendi! Quando a loja é criada fora do link indicado na aula 05, infelizmente **não é possível alterar o país depois**.\n\nNesse caso, recomendamos refazer o processo usando o link da aula 05,conforme orientado no curso, dá uma olhadinha aqui na aula: \n\n[Aula 05-Pegue aqui sua loja profissional](https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414796/lessons/1551962)\n\n. Isso garante que sua loja será configurada corretamente desde o início.",
+        "activation_condition": {
+          "must_include_terms": [
+            "não usei o link",
+            "não fiz pelo link",
+            "fora do link"
+          ],
+          "match_type": "contains_any"
+        },
+        "force_exclusive": true
+      }
+    },
+    "await_response": true
+  },
+  {
+    "id": 32,
+    "question": [
+      "Já possuo minha loja, mas desejo apenas que os produtos sejam instalados, pode ser?",
+      "Já tenho uma loja, quero apenas o tema do curso"
+    ],
+    "answer": "Entendo sua solicitação. Para que a customização da sua loja seja feita corretamente conforme os critérios do curso, ela precisa ser criada através do link do formulário de resgate. Assim, todas as configurações futuras serão salvas automaticamente.\n\n Se precisar de mais alguma coisa, estamos à disposição para ajudar!",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "loja",
+        "produtos",
+        "customização",
+        "resgate de loja",
+        "formulário"
+      ],
+      "last_updated": "28/02/2024"
+    }
+  },
+  {
+    "id": 33,
+    "question": [
+      "No vídeo fala que o site de vendas é 1 euro nos 3 primeiros meses, e depois de 3 meses qual é o valor?",
+      "Vocês dizem 1 dolar no primeiro mês, e depois é quanto?"
+    ],
+    "answer": "Você pode verificar diretamente no site ou na plataforma para os preços atualizados, pois eles podem ser ajustados. No momento da ativação do plano, você conseguirá visualizar o valor que será cobrado após o período promocional, logo ao lado dos dados do cartão de crédito.",
+    "metadata": {
+      "category": "shopify",
+      "keywords": [
+        "1 dolar",
+        "1 euro",
+        "plano",
+        "Shopify"
+      ],
+      "last_updated": "07/03/2024"
+    }
+  },
+  {
+    "id": 34,
+    "questions": [
+      "Posso trocar o tema/banner/produtos da minha loja?",
+      "Posso usar outro tema?",
+      "posso instalar outro tema",
+      "posso baixar outro tema",
+      "pode mudar meus produtos",
+      "quero trocar os produtos"
+    ],
+    "answer": "A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema/banner/produtos pré-instalados?](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "tema da loja",
+        "personalização",
+        "customização",
+        "trocar tema",
+        "design"
+      ],
+      "last_updated": "19/03/2025"
+    }
+  },
+  {
+    "id": 35,
+    "question": "O tema da loja que vocês instalaram misturou com outro que eu já tinha. O que fazer?",
+    "answer": "Entendi a situação. Pra te ajudar da melhor forma, preciso que nos envie seu **e-mail e senha** de acesso da Shopify. Assim, conseguimos te redirecionar para um atendente. Qualquer dúvida, estou por aqui!",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "tema misturado",
+        "erro de instalação",
+        "customização de tema"
+      ],
+      "last_updated": "19/03/2025"
+    }
+  },
+  {
+    "id": 36,
+    "question": "Posso instalar só o tema na minha loja sem os produtos?",
+    "answer": "Entendi que você quer instalar apenas o tema, sem os produtos. Pra te ajudar com isso, preciso que nos envie seu **e-mail e senha** de acesso da Shopify. Assim, conseguimos te encaminhar pra um atendente 😊. Se precisar de algo mais, é só me chamar!",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "só tema",
+        "não quero produtos"
+      ],
+      "last_updated": "19/03/2025"
+    }
+  },
+  {
+    "id": 37,
+    "question": "Posso instalar só os produtos na minha loja sem o tema?",
+    "answer": "Entendi que você quer instalar apenas os produtos, sem o tema. Pra te ajudar com isso, preciso que nos envie seu **e-mail e senha** de acesso da Shopify. Assim, conseguimos te encaminhar pra um atendente 😊. Se tiver qualquer dúvida, estou por aqui!",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "instalar só produtos",
+        "sem tema"
+      ],
+      "last_updated": "19/03/2025"
+    }
+  },
+  {
+    "id": 38,
+    "question": "Preciso refazer as configurações da loja se eu trocar de celular para computador?",
+    "answer": "Fica tranquilo, você não precisa configurar tudo de novo. As configurações da sua loja ficam salvas, independentemente do dispositivo que você usar. 😉\n\nPra conferir, é só seguir esse tutorial com o passo a passo: [Como ver sua loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314886-como-visualizar-minha-loja). Qualquer dúvida, estou por aqui pra te ajudar!",
+    "metadata": {
+      "category": "configuração",
+      "keywords": [
+        "configuração da loja",
+        "acesso pelo celular",
+        "acesso pelo computador",
+        "Shopify",
+        "login na loja"
+      ],
+      "last_updated": "19-Mar-2025"
+    }
+  },
+  {
+    "id": 39,
+    "question": [
+      "Ja tenho conta no brasil, posso continuar?",
+      "ja tenho conta na shopping mas em servidor brasileiro, vi que tem que mudar pra espanha, como que faço?"
+    ],
+    "answer": "Não é recomendável fazer a alteração de país em uma loja já existente. Por isso, volte à [aula 05](https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414796/lessons/1551962) e siga o link da página para criar sua loja conforme indicado pelo expert do curso 🚀",
+    "metadata": {
+      "category": "Localização",
+      "keywords": [
+        "país",
+        "localização",
+        "mudança de localização",
+        "aula 05"
+      ],
+      "last_updated": "21/03/2024"
+    }
+  },
+  {
+    "id": 40,
+    "question": [
+      "consigo alterar os nomes no menu principal da loja?",
+      "Não acho o menu Navegação",
+      "A parte de editar menus está diferente das aulas",
+      "Onde fica a parte de politicas da loja?"
+    ],
+    "answer": "A shopify passou por uma atualização, e essa opção mudou de lugar, mas o restante do processo continua o mesmo. Para alterar os nomes dos menus da loja: \n\nClique em *Conteúdos* \n\nDepois em *Menus* \n\nÉ só selecionar o menu que deseja editar e pronto! \n\nVocê também pode ver aqui [Onde alterar os menus](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314884-onde-alterar-os-menus-da-loja) 🚀",
+    "metadata": {
+      "category": "configuração",
+      "keywords": [
+        "menus",
+        "aula 01",
+        "navegação",
+        "aula"
+      ],
+      "last_updated": "26/03/2024"
+    }
+  },
+  {
+    "id": 41,
+    "questions": [
+      "preciso configurar o Shopify Payments para os clientes poderem fazer a compra via PayPal?",
+      "configurando o botão no formulário e vinculando o PayPal já é o suficiente?",
+      "como configurar formas de pagamento na sua loja Shopify.",
+      "O PayPal não é compatível com a moeda selecionada. Desabilite o gateway ou altere a moeda da loja para moeda aceita pelo PayPal"
+    ],
+    "answer": "No modelo de Contra Entrega ensinado no curso, não é necessário configurar o Shopify Payments, já que o pagamento é feito diretamente no momento da entrega. Esse método dispensa o uso de gateways de pagamento online. Você pode aprender mais sobre o assunto na [**aula 06-Configurando o formulário de compra**](https://universidade.droplatam.com.br/c/conteudo-europa-2-0/sections/414797/lessons/1551980). 🚀",
+    "metadata": {
+      "category": "curso",
+      "keywords": [
+        "shopify payments",
+        "payments",
+        "COD",
+        "gateway de pagamento",
+        "aula 06",
+        "contra entrega",
+        "pagamento na entrega"
+      ],
+      "last_updated": "26/03/2024"
+    }
+  },
+  {
+    "id": 42,
+    "question": "Quero falar com vocês pelo WhatsApp",
+    "question_variation": [
+      "Tem Whats pra contato?",
+      "Vocês atendem no WhatsApp?",
+      "Me chama no zap"
+    ],
+    "answer": "Nosso suporte não é feito pelo WhatsApp, tá? 😉 Pode mandar sua dúvida por aqui mesmo que a gente te ajuda rapidinho!",
+    "metadata": {
+      "category": "Canal de atendimento",
+      "keywords": [
+        "whatsapp",
+        "zap",
+        "suporte",
+        "contato"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 43,
+    "questions": [
+      "Como posso cancelar minha assinatura da Shopify?",
+      "quero desativar minha loja",
+      "quero cancelar a assinatura da shopify",
+      "quero cancelar o plano",
+      "Como eu cancelo o plano da Shopify?"
+    ],
+    "answer": "Para cancelar sua assinatura da Shopify, é preciso desativar sua loja. Dá uma olhada nesse link: [Desativando minha loja](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314889-como-desativar-outras-lojas) e se precisar de mais ajuda é só chamar aqui.",
+    "metadata": {
+      "category": "Plano",
+      "keywords": [
+        "cancelar assinatura",
+        "desativar loja",
+        "plano Shopify"
+      ],
+      "last_updated": "26-03-2025"
+    }
+  },
+  {
+    "id": 44,
+    "question": "Posso usar o PayPal para pagar a Shopify, mesmo com endereço do Brasil?",
+    "answer": "O PayPal é aceito pela Shopify como uma das formas de pagamento. Você pode conferir mais informações sobre esse método pelo nosso artigo [Como pagar com Paypal](https://dropsmartcom-help.freshdesk.com/support/solutions/articles/156000314878-como-pagar-com-paypal-na-shopify) \n\nQualquer outra dúvida, me chama aqui que te ajudo rapidinho!",
+    "metadata": {
+      "category": "Plano",
+      "keywords": [
+        "paypal",
+        "endereço brasil",
+        "pagamento",
+        "shopify",
+        "cartão recusado",
+        "forma de pagamento"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 45,
+    "question": "Está aparecendo esta mensagem pra mim: 'Para que os tributos sejam calculados corretamente, informe o local de sua empresa' e também pede razão social",
+    "question_variation": [
+      "Apareceu essa mensagem de tributos e razão social",
+      "Shopify está pedindo o local da empresa e razão social",
+      "Mensagem: informe o local da empresa para calcular tributos",
+      "Tenho que preencher a razão social na Shopify?"
+    ],
+    "answer": "Não se preocupe! 😊 Você **não precisa preencher a razão social**. Mas é importante ficar atento ao endereço que você está usando.\n\n➡️ Lembre-se de usar um **endereço da Espanha** ao configurar sua loja.",
+    "next_question_id": 30,
+    "metadata": {
+      "category": "Configuração inicial",
+      "keywords": [
+        "tributos",
+        "razão social",
+        "endereço da empresa",
+        "shopify",
+        "configuração fiscal"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 46,
+    "question": "erro na Dropify",
+    "question_variation": [
+      "token não tá aparecendo",
+      "a dropi não reconhece meu email",
+      "erro na Dropify"
+    ],
+    "answer": "Entendi! 😊 Se você já está dentro da plataforma, mas encontrou algum erro ou algo que não está funcionando como esperado, o ideal é falar direto com o nosso suporte educacional.\n\n👉 [suporte.droplatam.com.br](https://suporte.droplatam.com.br)\n\nEles vão te ajudar com qualquer questão ligada às aulas, integrações ou acesso ao conteúdo.",
+    "next_question_id": 49,
+    "metadata": {
+      "category": "Integração com plataformas",
+      "keywords": [
+        "dropi",
+        "dropify",
+        "token",
+        "e-mail não reconhecido",
+        "erro de integração",
+        "suporte educacional",
+        "Compra"
+      ],
+      "last_updated": "28-Mar-2025"
+    }
+  },
+  {
+    "id": 47,
+    "questions": [
+      "Onde encontro os produtos da minha loja na Shopify?",
+      "Onde posso ver os produtos da minha loja?"
+    ],
+    "answer": "Você pode acessar os produtos da sua loja diretamente pelo painel da Shopify. \n\nDepois de fazer login, é só olhar o menu lateral esquerdo e clicar em **Produtos**. Lá você vai conseguir ver todos os itens cadastrados e mudar informações, se precisar. \n\nSe tiver qualquer dúvida nessa parte, estou por aqui pra te ajudar! 😊",
+    "metadata": {
+      "category": "Personalização",
+      "keywords": [
+        "produtos da loja",
+        "produtos",
+        "editar produtos"
+      ],
+      "last_updated": "11-04-2025"
+    }
+  },
+  {
+    "id": 48,
+    "question": "Qual a diferença entre Dropify e Shopify?",
+    "question_variation": [
+      "Dropify é a mesma coisa que Shopify?",
+      "Dropify ou Shopify",
+      "Qual a diferença entre Dropify e Shopify?"
+    ],
+    "answer": "Dropify e Shopify são plataformas diferentes. \n\n📌 A Shopify é a plataforma onde sua loja é criada, personalizada e gerenciada.\n\n📌 Já a **Dropify** é um app que você instala na sua loja Shopify para importar produtos e gerenciar pedidos no modelo dropshipping COD.\n\nElas se conectam, mas têm funções diferentes. 😉",
+    "activation_condition": {
+      "must_include_terms": [
+        "dropify",
+        "dropi"
+      ],
+      "match_type": "coexist_in_same_question"
+    },
+    "metadata": {
+      "category": "Diferença entre plataformas",
+      "keywords": [
+        "dropify",
+        "shopify",
+        "diferença",
+        "plataforma",
+        "aplicativo",
+        "loja"
+      ],
+      "last_updated": "11-Abr-2025"
+    }
+  }
+]
