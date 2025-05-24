@@ -1,0 +1,1098 @@
+[
+  {
+    "question":"O botão 'continuar' não está habilitado. Como posso resolver esse problema?",
+    "answer":"Para resolver isso, primeiro clique no botão **Abrir Shopify**. Se ainda não funcionar, tente sair da sua conta, limpar os dados de navegação do navegador e entrar novamente na Universidade DropLatam. Caso o problema continue, me avise que te ajudamos rapidinho! 😉"
+  },
+  {
+    "question":"botao não funciona",
+    "answer":"Para resolver isso, primeiro clique no botão **Abrir Shopify**. Se ainda não funcionar, tente sair da sua conta, limpar os dados de navegação do navegador e entrar novamente na Universidade DropLatam. Caso o problema continue, me avise que te ajudamos rapidinho! 😉"
+  },
+  {
+    "question":"Ao tentar realizar o cadastro no formulário de resgate da loja, o sistema acusou que meu e-mail é inválido. Como posso resolver esse problema?",
+    "answer":"Isso deve estar acontecendo porque seu e-mail já está cadastrado no nosso banco de dados. Para resolver isso, acesse o [formulário de resgate de loja](https:\/\/lojadroplatam.prostore.ai\/pages\/ce10k-loja-eu-webapp) e faça o cadastro com um e-mail que ainda não tenha vínculo com a Shopify. Se precisar de ajuda, me avise! 😉"
+  },
+  {
+    "question":"Ta dando e-mail inválido",
+    "answer":"Isso deve estar acontecendo porque seu e-mail já está cadastrado no nosso banco de dados. Para resolver isso, acesse o [formulário de resgate de loja](https:\/\/lojadroplatam.prostore.ai\/pages\/ce10k-loja-eu-webapp) e faça o cadastro com um e-mail que ainda não tenha vínculo com a Shopify. Se precisar de ajuda, me avise! 😉"
+  },
+  {
+    "question":"não aceita meu email",
+    "answer":"Isso deve estar acontecendo porque seu e-mail já está cadastrado no nosso banco de dados. Para resolver isso, acesse o [formulário de resgate de loja](https:\/\/lojadroplatam.prostore.ai\/pages\/ce10k-loja-eu-webapp) e faça o cadastro com um e-mail que ainda não tenha vínculo com a Shopify. Se precisar de ajuda, me avise! 😉"
+  },
+  {
+    "question":"como assim invalido?",
+    "answer":"Isso deve estar acontecendo porque seu e-mail já está cadastrado no nosso banco de dados. Para resolver isso, acesse o [formulário de resgate de loja](https:\/\/lojadroplatam.prostore.ai\/pages\/ce10k-loja-eu-webapp) e faça o cadastro com um e-mail que ainda não tenha vínculo com a Shopify. Se precisar de ajuda, me avise! 😉"
+  },
+  {
+    "question":"Esqueci de mudar o país ao criar minha conta. O que devo fazer?",
+    "answer":"{'next_question_id': 31}"
+  },
+  {
+    "question":"Eu infelizmente não selecionei a opção país na hora de colocar o email, quando começo de novo o processo não aparece mais essa opção de país, como devo proceder?",
+    "answer":"{'next_question_id': 31}"
+  },
+  {
+    "question":"Comprei o pacote adicional de 20 produtos da DropLatam, mas minha loja mostra apenas 5 produtos instalados. O que devo fazer?",
+    "answer":"O combo de 20 produtos que você comprou não é instalado automaticamente na sua loja. Para saber como resgatar, acesse este link: [Como instalar meu Combo de 20 produtos](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314887-combo-de-20-produtos).\n\nSe depois de seguir o tutorial você ainda não conseguir acessar os produtos, me avise aqui no chat que a gente te ajuda rapidinho! 🚀"
+  },
+  {
+    "question":"Cade os 20 produtos?",
+    "answer":"O combo de 20 produtos que você comprou não é instalado automaticamente na sua loja. Para saber como resgatar, acesse este link: [Como instalar meu Combo de 20 produtos](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314887-combo-de-20-produtos).\n\nSe depois de seguir o tutorial você ainda não conseguir acessar os produtos, me avise aqui no chat que a gente te ajuda rapidinho! 🚀"
+  },
+  {
+    "question":"não recebi os 20 produtos",
+    "answer":"O combo de 20 produtos que você comprou não é instalado automaticamente na sua loja. Para saber como resgatar, acesse este link: [Como instalar meu Combo de 20 produtos](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314887-combo-de-20-produtos).\n\nSe depois de seguir o tutorial você ainda não conseguir acessar os produtos, me avise aqui no chat que a gente te ajuda rapidinho! 🚀"
+  },
+  {
+    "question":"Tenho uma conta existente na Shopify. Posso usá-la para configurar minha loja?",
+    "answer":"Entendi! 😊 Para que sua loja funcione certinho no modelo de Contra Entrega ensinado no curso, a conta precisa ser criada do zero com as configurações corretas para o mercado internacional.\n\nSe você usar uma conta pré-existente da Shopify, pode acabar pulando etapas essenciais e isso pode gerar problemas na configuração da loja.\n\nPor isso, o ideal é criar uma nova conta do zero, usando o link e o passo a passo indicado na aula 05."
+  },
+  {
+    "question":"Posso usar minha conta?",
+    "answer":"Entendi! 😊 Para que sua loja funcione certinho no modelo de Contra Entrega ensinado no curso, a conta precisa ser criada do zero com as configurações corretas para o mercado internacional.\n\nSe você usar uma conta pré-existente da Shopify, pode acabar pulando etapas essenciais e isso pode gerar problemas na configuração da loja.\n\nPor isso, o ideal é criar uma nova conta do zero, usando o link e o passo a passo indicado na aula 05."
+  },
+  {
+    "question":"Já coloquei email, mas a bandeira não aparece pra mim",
+    "answer":"Entendi! 😊 Para que sua loja funcione certinho no modelo de Contra Entrega ensinado no curso, a conta precisa ser criada do zero com as configurações corretas para o mercado internacional.\n\nSe você usar uma conta pré-existente da Shopify, pode acabar pulando etapas essenciais e isso pode gerar problemas na configuração da loja.\n\nPor isso, o ideal é criar uma nova conta do zero, usando o link e o passo a passo indicado na aula 05."
+  },
+  {
+    "question":"Coloquei o email mas não aparece a opção de país",
+    "answer":"Entendi! 😊 Para que sua loja funcione certinho no modelo de Contra Entrega ensinado no curso, a conta precisa ser criada do zero com as configurações corretas para o mercado internacional.\n\nSe você usar uma conta pré-existente da Shopify, pode acabar pulando etapas essenciais e isso pode gerar problemas na configuração da loja.\n\nPor isso, o ideal é criar uma nova conta do zero, usando o link e o passo a passo indicado na aula 05."
+  },
+  {
+    "question":"No formulário de resgate da loja, o botão 'Quero Participar' não está funcionando. O que devo fazer?",
+    "answer":"Para habilitar o botão ‘Quero Participar’, basta marcar a caixinha abaixo dele, onde diz ‘Ao informar meus dados, eu concordo com a Política de Privacidade.’\n\nSe o botão ainda não funcionar, tente limpar os dados de navegação do seu navegador e acessar o formulário de resgate de loja novamente.\n\nSe mesmo assim o problema continuar, me avise aqui no chat que a gente te ajuda rapidinho! 😉"
+  },
+  {
+    "question":"o botão Quero Participar nao funciona",
+    "answer":"Para habilitar o botão ‘Quero Participar’, basta marcar a caixinha abaixo dele, onde diz ‘Ao informar meus dados, eu concordo com a Política de Privacidade.’\n\nSe o botão ainda não funcionar, tente limpar os dados de navegação do seu navegador e acessar o formulário de resgate de loja novamente.\n\nSe mesmo assim o problema continuar, me avise aqui no chat que a gente te ajuda rapidinho! 😉"
+  },
+  {
+    "question":"marquei a caixinha, mas o botão não funcionou",
+    "answer":"Para habilitar o botão ‘Quero Participar’, basta marcar a caixinha abaixo dele, onde diz ‘Ao informar meus dados, eu concordo com a Política de Privacidade.’\n\nSe o botão ainda não funcionar, tente limpar os dados de navegação do seu navegador e acessar o formulário de resgate de loja novamente.\n\nSe mesmo assim o problema continuar, me avise aqui no chat que a gente te ajuda rapidinho! 😉"
+  },
+  {
+    "question":"Não consigo configurar o domínio. O que devo fazer?",
+    "answer":"Para conectar seu domínio na Shopify, siga estes passos:\n\n1️⃣ Acesse sua conta na **Shopify**.\n2️⃣ Vá até **Configurações** > **Domínio**.\n3️⃣ Insira o domínio e clique em **Verificar Conexão**.\n\nPara mais detalhes, confira este tutorial completo: [Como Configurar um Domínio Hostgator na Shopify](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314856-como-conectar-meu-dom%C3%ADnio).\n\nCaso o problema persista, recomendo que você entre em contato com o nosso time responsável por questões relacionadas ao HostGator através do link: [api.whatsapp.com](https:\/\/api.whatsapp.com\/send\/?phone=5548988201114&text&type=phone_number&app_absent=0).\n\nSe precisar de mais alguma ajuda, me avise aqui no chat! 😉"
+  },
+  {
+    "question":"Não consigo fazer a integração entre a DropLatam e a Shopify. Como posso resolver isso?",
+    "answer":"Para integrar a plataforma da DropLatam com a Shopify, siga as instruções deste tutorial: [Como fazer a integração entre Shopify e DropLatam](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314902-como-sincronizar-a-droplatam-com-shopify).\n\nSe depois de seguir o passo a passo a integração não funcionar, entre em contato com o **suporte do curso** através deste link: [Suporte DropLatam](https:\/\/suporte.droplatam.com.br\/hc\/pt-br).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Não consigo realizar a integração entre a DropLatam e a Shopify?",
+    "answer":"Para integrar a plataforma da DropLatam com a Shopify, siga as instruções deste tutorial: [Como fazer a integração entre Shopify e DropLatam](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314902-como-sincronizar-a-droplatam-com-shopify).\n\nSe depois de seguir o passo a passo a integração não funcionar, entre em contato com o **suporte do curso** através deste link: [Suporte DropLatam](https:\/\/suporte.droplatam.com.br\/hc\/pt-br).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Após informar os dados do cartão de crédito, devo inserir meu endereço? Como proceder?",
+    "answer":"Para a assinatura do plano, é importante que você insira um endereço válido da Espanha. Utilize os seguintes dados:\n\n📍 **Rua:** Puerta del Sol, 14\n📍 **Código Postal:** 28013\n📍 **Cidade:** Madrid\n📍 **Província:** Comunidad de Madrid\n📍 **País:** Espanha\n📞 **Telefone:** 34756404444\n\nCaso tenha mais dúvidas, estamos aqui para ajudar!"
+  },
+  {
+    "question":"que endereço coloco no pagamento?",
+    "answer":"Para a assinatura do plano, é importante que você insira um endereço válido da Espanha. Utilize os seguintes dados:\n\n📍 **Rua:** Puerta del Sol, 14\n📍 **Código Postal:** 28013\n📍 **Cidade:** Madrid\n📍 **Província:** Comunidad de Madrid\n📍 **País:** Espanha\n📞 **Telefone:** 34756404444\n\nCaso tenha mais dúvidas, estamos aqui para ajudar!"
+  },
+  {
+    "question":"na parte do plano pede um endereço, oque eu coloco?",
+    "answer":"Para a assinatura do plano, é importante que você insira um endereço válido da Espanha. Utilize os seguintes dados:\n\n📍 **Rua:** Puerta del Sol, 14\n📍 **Código Postal:** 28013\n📍 **Cidade:** Madrid\n📍 **Província:** Comunidad de Madrid\n📍 **País:** Espanha\n📞 **Telefone:** 34756404444\n\nCaso tenha mais dúvidas, estamos aqui para ajudar!"
+  },
+  {
+    "question":"Durante a customização da minha loja, percebi que o tema instalado é o Dawn e não o Loja DropLatam. O que aconteceu?",
+    "answer":"Nosso sistema passou por atualizações e, por isso, o tema Loja DropLatam foi substituído pelo tema Dawn. Todas as customizações da sua loja serão aplicadas normalmente nesse novo tema. Se precisar de mais alguma coisa, estamos à disposição para ajudar!"
+  },
+  {
+    "question":"Cade o tema?",
+    "answer":"Nosso sistema passou por atualizações e, por isso, o tema Loja DropLatam foi substituído pelo tema Dawn. Todas as customizações da sua loja serão aplicadas normalmente nesse novo tema. Se precisar de mais alguma coisa, estamos à disposição para ajudar!"
+  },
+  {
+    "question":"não foi instalado o tema de vocês",
+    "answer":"Nosso sistema passou por atualizações e, por isso, o tema Loja DropLatam foi substituído pelo tema Dawn. Todas as customizações da sua loja serão aplicadas normalmente nesse novo tema. Se precisar de mais alguma coisa, estamos à disposição para ajudar!"
+  },
+  {
+    "question":"porque tem o tema Dawn?",
+    "answer":"Nosso sistema passou por atualizações e, por isso, o tema Loja DropLatam foi substituído pelo tema Dawn. Todas as customizações da sua loja serão aplicadas normalmente nesse novo tema. Se precisar de mais alguma coisa, estamos à disposição para ajudar!"
+  },
+  {
+    "question":"Recebi um e-mail da Shopify informando que infringi as políticas da plataforma e que minha conta será cancelada. O que devo fazer?",
+    "answer":"Entendo como isso pode ser frustrante. 😕 A Shopify realiza algumas verificações de conta aleatoriamente, e por algum motivo, a sua pode ter sido bloqueada.\n\nPara que possamos entender melhor o que aconteceu e te ajudar, preciso que nos envie algumas informações:\n\n✅ **Seu e-mail de acesso **\n✅ **Senha da loja**\n\nCaso já tenha enviado essas informações, peço que aguarde enquanto direcionamos seu caso para um atendente. Essas informações são essenciais para que possamos te ajudar o mais rápido possível. Qualquer dúvida, me avise! 😉"
+  },
+  {
+    "question":"minha loja foi bloqueada?",
+    "answer":"Entendo como isso pode ser frustrante. 😕 A Shopify realiza algumas verificações de conta aleatoriamente, e por algum motivo, a sua pode ter sido bloqueada.\n\nPara que possamos entender melhor o que aconteceu e te ajudar, preciso que nos envie algumas informações:\n\n✅ **Seu e-mail de acesso **\n✅ **Senha da loja**\n\nCaso já tenha enviado essas informações, peço que aguarde enquanto direcionamos seu caso para um atendente. Essas informações são essenciais para que possamos te ajudar o mais rápido possível. Qualquer dúvida, me avise! 😉"
+  },
+  {
+    "question":"aparece a mensagem This store is unavailable",
+    "answer":"Entendo como isso pode ser frustrante. 😕 A Shopify realiza algumas verificações de conta aleatoriamente, e por algum motivo, a sua pode ter sido bloqueada.\n\nPara que possamos entender melhor o que aconteceu e te ajudar, preciso que nos envie algumas informações:\n\n✅ **Seu e-mail de acesso **\n✅ **Senha da loja**\n\nCaso já tenha enviado essas informações, peço que aguarde enquanto direcionamos seu caso para um atendente. Essas informações são essenciais para que possamos te ajudar o mais rápido possível. Qualquer dúvida, me avise! 😉"
+  },
+  {
+    "question":"minha loja sumiu",
+    "answer":"Entendo como isso pode ser frustrante. 😕 A Shopify realiza algumas verificações de conta aleatoriamente, e por algum motivo, a sua pode ter sido bloqueada.\n\nPara que possamos entender melhor o que aconteceu e te ajudar, preciso que nos envie algumas informações:\n\n✅ **Seu e-mail de acesso **\n✅ **Senha da loja**\n\nCaso já tenha enviado essas informações, peço que aguarde enquanto direcionamos seu caso para um atendente. Essas informações são essenciais para que possamos te ajudar o mais rápido possível. Qualquer dúvida, me avise! 😉"
+  },
+  {
+    "question":"Ao acessar minha conta na Shopify, percebi que a loja está em inglês e não consegui dar continuidade. Como posso resolver esse problema?",
+    "answer":"Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!"
+  },
+  {
+    "question":"porque minha pagina esta em portugues?",
+    "answer":"Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!"
+  },
+  {
+    "question":"Minha loja esta em ingles, não consigo continuar",
+    "answer":"Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!"
+  },
+  {
+    "question":"como mudar o idioma da loja?",
+    "answer":"Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!"
+  },
+  {
+    "question":"tá tudo em inglês",
+    "answer":"Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!"
+  },
+  {
+    "question":"minha página ficou em espanhol o que eu faço?",
+    "answer":"Entendi! 😊 Me confirma uma coisa:\n\nVocê quer mudar o idioma da **tela onde você faz as configurações da loja** (a parte que só você vê) ou da **loja que aparece pros seus clientes**?\n\n🔸 **Se for a tela de configurações (o painel da loja):** dá uma olhada nesse tutorial que ensina a mudar o idioma:\n👉 [Como mudar o idioma do painel da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o)\n\n🔸 **Se for a loja que os clientes veem:** me envia aqui seu **e-mail e senha da Shopify**, que a gente verifica pra você e já te ajuda certinho. 😉\n\nSe tiver dúvidas, é só chamar!"
+  },
+  {
+    "question":"Concluí a criação da minha loja, mas percebi que os banners estão em espanhol. Isso é normal?",
+    "answer":"Sim, está tudo certo. Os banners e o idioma da sua loja devem estar em espanhol, pois seus clientes são da Espanha. Se o painel de administração estiver em outro idioma, você pode alterá-lo facilmente, é só conferir as instruções do artigo [Como mudar o idioma](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o). Se precisar de mais alguma coisa, estamos aqui para ajudar!"
+  },
+  {
+    "question":"produtos em espanhol?",
+    "answer":"Sim, está tudo certo. Os banners e o idioma da sua loja devem estar em espanhol, pois seus clientes são da Espanha. Se o painel de administração estiver em outro idioma, você pode alterá-lo facilmente, é só conferir as instruções do artigo [Como mudar o idioma](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314900-como-mudar-o-idioma-da-loja-p%C3%A1gina-de-administra%C3%A7%C3%A3o). Se precisar de mais alguma coisa, estamos aqui para ajudar!"
+  },
+  {
+    "question":"Gostaria de solicitar reembolso do curso.",
+    "answer":"Sentimos muito que você queira solicitar o reembolso. 😕\n\nTemos uma equipe que pode te ajudar a montar sua loja! Antes de seguir com o reembolso, gostaríamos de entender em que etapa você parou e como podemos te auxiliar a concluir sua loja.\n\nCaso prefira realmente solicitar o reembolso, aqui estão as informações detalhadas sobre o processo: [Requisitos do reembolso](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314885-reembolso-do-curso).\n\n🔹 Para falar diretamente com a equipe comercial e solicitar o reembolso, acesse este link: [Suporte Comercial - Reembolso](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial).\n\nSe precisar de algo mais, estou por aqui para te ajudar! 😉"
+  },
+  {
+    "question":"quero a devolução do valor por favor",
+    "answer":"Sentimos muito que você queira solicitar o reembolso. 😕\n\nTemos uma equipe que pode te ajudar a montar sua loja! Antes de seguir com o reembolso, gostaríamos de entender em que etapa você parou e como podemos te auxiliar a concluir sua loja.\n\nCaso prefira realmente solicitar o reembolso, aqui estão as informações detalhadas sobre o processo: [Requisitos do reembolso](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314885-reembolso-do-curso).\n\n🔹 Para falar diretamente com a equipe comercial e solicitar o reembolso, acesse este link: [Suporte Comercial - Reembolso](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial).\n\nSe precisar de algo mais, estou por aqui para te ajudar! 😉"
+  },
+  {
+    "question":"quero meus 27 reais de volta",
+    "answer":"Sentimos muito que você queira solicitar o reembolso. 😕\n\nTemos uma equipe que pode te ajudar a montar sua loja! Antes de seguir com o reembolso, gostaríamos de entender em que etapa você parou e como podemos te auxiliar a concluir sua loja.\n\nCaso prefira realmente solicitar o reembolso, aqui estão as informações detalhadas sobre o processo: [Requisitos do reembolso](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314885-reembolso-do-curso).\n\n🔹 Para falar diretamente com a equipe comercial e solicitar o reembolso, acesse este link: [Suporte Comercial - Reembolso](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial).\n\nSe precisar de algo mais, estou por aqui para te ajudar! 😉"
+  },
+  {
+    "question":"quero meu dinheiro de volta",
+    "answer":"Sentimos muito que você queira solicitar o reembolso. 😕\n\nTemos uma equipe que pode te ajudar a montar sua loja! Antes de seguir com o reembolso, gostaríamos de entender em que etapa você parou e como podemos te auxiliar a concluir sua loja.\n\nCaso prefira realmente solicitar o reembolso, aqui estão as informações detalhadas sobre o processo: [Requisitos do reembolso](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314885-reembolso-do-curso).\n\n🔹 Para falar diretamente com a equipe comercial e solicitar o reembolso, acesse este link: [Suporte Comercial - Reembolso](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial).\n\nSe precisar de algo mais, estou por aqui para te ajudar! 😉"
+  },
+  {
+    "question":"quero reembolso",
+    "answer":"Sentimos muito que você queira solicitar o reembolso. 😕\n\nTemos uma equipe que pode te ajudar a montar sua loja! Antes de seguir com o reembolso, gostaríamos de entender em que etapa você parou e como podemos te auxiliar a concluir sua loja.\n\nCaso prefira realmente solicitar o reembolso, aqui estão as informações detalhadas sobre o processo: [Requisitos do reembolso](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314885-reembolso-do-curso).\n\n🔹 Para falar diretamente com a equipe comercial e solicitar o reembolso, acesse este link: [Suporte Comercial - Reembolso](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial).\n\nSe precisar de algo mais, estou por aqui para te ajudar! 😉"
+  },
+  {
+    "question":"Gostaria de solicitar reembolso da Shopify",
+    "answer":"Para resolver essa questão, você deve entrar em contato direto com o suporte da Shopify.\n\nVocê pode solicitar ajuda sem precisar entrar na sua conta [Suporte Shopify](https:\/\/help.shopify.com\/pt-BR\/support\/topic-select\/login-issue\/contact\/email).\n\nSe precisar de mais alguma coisa, me avise! 😉"
+  },
+  {
+    "question":"D",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"u",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"r",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"n",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"t",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"i",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"n",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"t",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"u",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"r",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"d",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"p",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"l",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"n",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"B",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"i",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"c",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"d",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"S",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"h",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"p",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"i",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"f",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"y",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":",",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"p",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"r",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"c",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"u",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"u",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"m",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"m",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"n",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"g",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"m",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"b",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"r",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"i",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"m",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"p",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"t",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"I",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"V",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"A",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"d",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"E",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"s",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"p",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"n",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"h",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":".",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"O",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"q",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"u",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"d",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"v",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"o",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":" ",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"f",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"a",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"z",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"e",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"r",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"?",
+    "answer":"A mensagem sobre o imposto IVA refere-se à precificação dos seus produtos. Isso significa que, embora a mensagem apareça durante a assinatura, nenhum valor será debitado do seu cartão de crédito. *Não é necessário preencher o IVA* diretamente. O que você precisa fazer é incluir 21% do valor do produto na precificação para que o imposto esteja embutido no preço final. Se precisar de mais esclarecimentos, estamos aqui para ajudar!"
+  },
+  {
+    "question":"Durante a instalação do aplicativo Pro Store AI, foi solicitado um código de acesso. Onde posso encontrá-lo?",
+    "answer":"O código de acesso ao ProStore AI é pessoal e intransferível, servindo para confirmar que você é aluno do curso. Você encontra esse link acessando a página de resgate na descrição da [**aula 04 – “Pegue aqui sua aula profissional”](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962), dentro da página de resgate o código especial está disponível no Passo 2: Vamos instalar o ProStore AI. Para saber como instalar o app, confira também este artigo sobre como instalar o [ProStore AI](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314855-como-instalar-o-app-prostore-na-minha-loja). Se tiver qualquer dificuldade para localizar o código, envie seu e-mail de cadastro no formulário de resgate da loja que ajudamos você!"
+  },
+  {
+    "question":"esta pedindo um código para instalar o app",
+    "answer":"O código de acesso ao ProStore AI é pessoal e intransferível, servindo para confirmar que você é aluno do curso. Você encontra esse link acessando a página de resgate na descrição da [**aula 04 – “Pegue aqui sua aula profissional”](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962), dentro da página de resgate o código especial está disponível no Passo 2: Vamos instalar o ProStore AI. Para saber como instalar o app, confira também este artigo sobre como instalar o [ProStore AI](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314855-como-instalar-o-app-prostore-na-minha-loja). Se tiver qualquer dificuldade para localizar o código, envie seu e-mail de cadastro no formulário de resgate da loja que ajudamos você!"
+  },
+  {
+    "question":"Estou na etapa de precificação dos produtos da minha loja e percebi que os valores estão em real, e não em euro como nas aulas. Como posso alterar a moeda?",
+    "answer":"Para mudar a moeda da sua loja, é só seguir as instruções deste tutorial: [Como Mudar a moeda da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314881-como-mudar-a-moeda-da-minha-loja).\n\nSe mesmo após seguir o passo a passo você ainda tiver dificuldade, me avisa aqui no chat que a gente te ajuda rapidinho! 😉"
+  },
+  {
+    "question":"como mudar os valores para euro?",
+    "answer":"Para mudar a moeda da sua loja, é só seguir as instruções deste tutorial: [Como Mudar a moeda da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314881-como-mudar-a-moeda-da-minha-loja).\n\nSe mesmo após seguir o passo a passo você ainda tiver dificuldade, me avisa aqui no chat que a gente te ajuda rapidinho! 😉"
+  },
+  {
+    "question":"minha loja aparece os produtos em real do brasil, como mudar?",
+    "answer":"Para mudar a moeda da sua loja, é só seguir as instruções deste tutorial: [Como Mudar a moeda da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314881-como-mudar-a-moeda-da-minha-loja).\n\nSe mesmo após seguir o passo a passo você ainda tiver dificuldade, me avisa aqui no chat que a gente te ajuda rapidinho! 😉"
+  },
+  {
+    "question":"Minha loja está pronta, mas percebi que não veio com a logo, políticas e termos de serviço. Como devo proceder?",
+    "answer":"Vou te mandar um link que mostra certinho tudo o que é instalado na sua loja: [Oque vem na minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315559-oque-vem-na-minha-loja-pronta-).\n\nSe você perceber que algum dos itens listados não foi instalado, me avisa aqui no chat. Aí a gente te encaminha para o suporte, eles vão responder em até 1 dia útil, no e-mail que você usou aqui no chat 😊\n\nPra agilizar, peço que envie seu **email e senha da Shopify**. Assim conseguimos te ajudar mais rápido! 😉"
+  },
+  {
+    "question":"minha loja tá sem as políticas",
+    "answer":"Vou te mandar um link que mostra certinho tudo o que é instalado na sua loja: [Oque vem na minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315559-oque-vem-na-minha-loja-pronta-).\n\nSe você perceber que algum dos itens listados não foi instalado, me avisa aqui no chat. Aí a gente te encaminha para o suporte, eles vão responder em até 1 dia útil, no e-mail que você usou aqui no chat 😊\n\nPra agilizar, peço que envie seu **email e senha da Shopify**. Assim conseguimos te ajudar mais rápido! 😉"
+  },
+  {
+    "question":"minha loja veio sem logo",
+    "answer":"Vou te mandar um link que mostra certinho tudo o que é instalado na sua loja: [Oque vem na minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315559-oque-vem-na-minha-loja-pronta-).\n\nSe você perceber que algum dos itens listados não foi instalado, me avisa aqui no chat. Aí a gente te encaminha para o suporte, eles vão responder em até 1 dia útil, no e-mail que você usou aqui no chat 😊\n\nPra agilizar, peço que envie seu **email e senha da Shopify**. Assim conseguimos te ajudar mais rápido! 😉"
+  },
+  {
+    "question":"minha loja veio sem políticas",
+    "answer":"Vou te mandar um link que mostra certinho tudo o que é instalado na sua loja: [Oque vem na minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315559-oque-vem-na-minha-loja-pronta-).\n\nSe você perceber que algum dos itens listados não foi instalado, me avisa aqui no chat. Aí a gente te encaminha para o suporte, eles vão responder em até 1 dia útil, no e-mail que você usou aqui no chat 😊\n\nPra agilizar, peço que envie seu **email e senha da Shopify**. Assim conseguimos te ajudar mais rápido! 😉"
+  },
+  {
+    "question":"Ao concluir a criação da minha loja, percebi que o sistema está solicitando uma senha para acessá-la. O que devo fazer?",
+    "answer":"Fica tranquilo, dá pra resolver isso rapidinho. Vou te mandar um link que explica certinho o que é essa senha e como remover: [Como Remover a senha da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314890-como-remover-a-senha-da-loja).\n\nSe mesmo assim o problema continuar, me chama aqui no chat que te ajudo na hora! 😉"
+  },
+  {
+    "question":"minha loja esta pedindo senha ainda",
+    "answer":"Fica tranquilo, dá pra resolver isso rapidinho. Vou te mandar um link que explica certinho o que é essa senha e como remover: [Como Remover a senha da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314890-como-remover-a-senha-da-loja).\n\nSe mesmo assim o problema continuar, me chama aqui no chat que te ajudo na hora! 😉"
+  },
+  {
+    "question":"terminei a loja e pediu uma senha, qua a senha?",
+    "answer":"Fica tranquilo, dá pra resolver isso rapidinho. Vou te mandar um link que explica certinho o que é essa senha e como remover: [Como Remover a senha da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314890-como-remover-a-senha-da-loja).\n\nSe mesmo assim o problema continuar, me chama aqui no chat que te ajudo na hora! 😉"
+  },
+  {
+    "question":"como eu tiro a senha da loja?",
+    "answer":"Fica tranquilo, dá pra resolver isso rapidinho. Vou te mandar um link que explica certinho o que é essa senha e como remover: [Como Remover a senha da loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314890-como-remover-a-senha-da-loja).\n\nSe mesmo assim o problema continuar, me chama aqui no chat que te ajudo na hora! 😉"
+  },
+  {
+    "question":"Estou na etapa de assinatura do plano Basic da Shopify, mas não tenho cartão de crédito. O que posso fazer?",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Não tenho cartão de crédito",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"não aceita meu cartão",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"cartão recusado",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"só tenho cartão de débito",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"débito",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"crédito",
+    "answer":"A Shopify tem algumas requisitos pra aprovar seu cartão de crédito, e se você não tem um cartão assim, também temos uma alternativa pra te ajudar!\n\nÉ só acessar este link e ver como proceder: [Não tenho cartão, como proceder](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314879-requisitos-de-pagamento-da-shopify).\n\nQualquer outra dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Quero criar uma loja em outra plataforma, pois não desejo utilizar a Shopify. Como posso proceder?",
+    "answer":"Temos uma parceria com a Shopify, e por isso você pode testar a plataforma **de graça por 3 dias**. E se você é aluno do nosso curso, ainda ganha um **super desconto por 3 meses**! 😄\n\nComo usamos a Shopify, sua loja já vem pronta no modelo que eles oferecem — ou seja, **não enviamos arquivos separados** com tema e produtos. Tudo é instalado direto na Shopify de forma automática. \n\nPra seguir com a criação da sua loja, é só assistir à [**aula 05**](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962) do curso. Lá tem o passo a passo pra você resgatar sua loja e continuar tranquilo!\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Posso usar outra plataforma pra criar minha loja?",
+    "answer":"Temos uma parceria com a Shopify, e por isso você pode testar a plataforma **de graça por 3 dias**. E se você é aluno do nosso curso, ainda ganha um **super desconto por 3 meses**! 😄\n\nComo usamos a Shopify, sua loja já vem pronta no modelo que eles oferecem — ou seja, **não enviamos arquivos separados** com tema e produtos. Tudo é instalado direto na Shopify de forma automática. \n\nPra seguir com a criação da sua loja, é só assistir à [**aula 05**](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962) do curso. Lá tem o passo a passo pra você resgatar sua loja e continuar tranquilo!\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"não quero criar minha loja na shopify",
+    "answer":"Temos uma parceria com a Shopify, e por isso você pode testar a plataforma **de graça por 3 dias**. E se você é aluno do nosso curso, ainda ganha um **super desconto por 3 meses**! 😄\n\nComo usamos a Shopify, sua loja já vem pronta no modelo que eles oferecem — ou seja, **não enviamos arquivos separados** com tema e produtos. Tudo é instalado direto na Shopify de forma automática. \n\nPra seguir com a criação da sua loja, é só assistir à [**aula 05**](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962) do curso. Lá tem o passo a passo pra você resgatar sua loja e continuar tranquilo!\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Durante a criação da minha conta na Shopify, acabei criando outras lojas. Como posso deletá-las?",
+    "answer":"Fica tranquilo, vamos resolver isso rapidinho. 😊\n\nVou te enviar um tutorial que mostra como identificar se há mais de uma loja vinculada à sua conta e também como desativar essas lojas: [Tenho mais de uma loja, oque fazer agora](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315553-acho-que-tenho-mais-de-uma-loja-ativa).\n\nSe mesmo após seguir o passo a passo você não conseguir desativar as lojas, me avise aqui no chat. Aí você pode me passar seu **email e senha da Shopify** e a gente te encaminha para um atendente 😊"
+  },
+  {
+    "question":"acho que tem mais de uma loja na minha conta",
+    "answer":"Fica tranquilo, vamos resolver isso rapidinho. 😊\n\nVou te enviar um tutorial que mostra como identificar se há mais de uma loja vinculada à sua conta e também como desativar essas lojas: [Tenho mais de uma loja, oque fazer agora](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315553-acho-que-tenho-mais-de-uma-loja-ativa).\n\nSe mesmo após seguir o passo a passo você não conseguir desativar as lojas, me avise aqui no chat. Aí você pode me passar seu **email e senha da Shopify** e a gente te encaminha para um atendente 😊"
+  },
+  {
+    "question":"Estou tentando validar meus documentos para a DropLatam, mas ainda não recebi resposta. O que devo fazer?",
+    "answer":"Vou te enviar um link com todas as instruções pra você fazer a **validação dos seus documentos**: [Autenticação de Identidade](https:\/\/suporte.droplatam.com.br\/hc\/pt-br\/articles\/30707701157531-Como-realizar-a-Autenticação-de-Identidade).\n\n📌 O prazo de retorno é de **até 72 horas úteis**, e é importante aguardar a resposta da equipe responsável. Se você enviar uma nova mensagem antes do prazo, o tempo de espera zera e começa a contar de novo.\n\nSe as **72 horas úteis** já passaram, [entre em contato com a equipe especializada por aqui](https:\/\/suporte.droplatam.com.br\/hc\/pt-br).\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"tá dando erro na validação de documento",
+    "answer":"Vou te enviar um link com todas as instruções pra você fazer a **validação dos seus documentos**: [Autenticação de Identidade](https:\/\/suporte.droplatam.com.br\/hc\/pt-br\/articles\/30707701157531-Como-realizar-a-Autenticação-de-Identidade).\n\n📌 O prazo de retorno é de **até 72 horas úteis**, e é importante aguardar a resposta da equipe responsável. Se você enviar uma nova mensagem antes do prazo, o tempo de espera zera e começa a contar de novo.\n\nSe as **72 horas úteis** já passaram, [entre em contato com a equipe especializada por aqui](https:\/\/suporte.droplatam.com.br\/hc\/pt-br).\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"não consigo validar meus documentos",
+    "answer":"Vou te enviar um link com todas as instruções pra você fazer a **validação dos seus documentos**: [Autenticação de Identidade](https:\/\/suporte.droplatam.com.br\/hc\/pt-br\/articles\/30707701157531-Como-realizar-a-Autenticação-de-Identidade).\n\n📌 O prazo de retorno é de **até 72 horas úteis**, e é importante aguardar a resposta da equipe responsável. Se você enviar uma nova mensagem antes do prazo, o tempo de espera zera e começa a contar de novo.\n\nSe as **72 horas úteis** já passaram, [entre em contato com a equipe especializada por aqui](https:\/\/suporte.droplatam.com.br\/hc\/pt-br).\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"ninguém da validação de documentos me responde",
+    "answer":"Vou te enviar um link com todas as instruções pra você fazer a **validação dos seus documentos**: [Autenticação de Identidade](https:\/\/suporte.droplatam.com.br\/hc\/pt-br\/articles\/30707701157531-Como-realizar-a-Autenticação-de-Identidade).\n\n📌 O prazo de retorno é de **até 72 horas úteis**, e é importante aguardar a resposta da equipe responsável. Se você enviar uma nova mensagem antes do prazo, o tempo de espera zera e começa a contar de novo.\n\nSe as **72 horas úteis** já passaram, [entre em contato com a equipe especializada por aqui](https:\/\/suporte.droplatam.com.br\/hc\/pt-br).\n\nQualquer dúvida, me chama aqui no chat! 😉"
+  },
+  {
+    "question":"Na etapa de assinatura do plano Basic, a Shopify solicita dois endereços. Devo colocar o meu endereço do Brasil?",
+    "answer":"O endereço que você deve usar na Shopify é o da **Espanha**, como orientado pelo expert no curso. Você pode colocar o mesmo endereço nos dois campos.\n\nAqui estão os dados:\n📍 **Rua:** Puerta del Sol, 14\n📍 **Código Postal:** 28013\n📍 **Cidade:** Madrid\n📍 **Província:** Comunidad de Madrid\n📍 **País:** Espanha\n📞 **Telefone:** 34756404444\n\nQualquer dúvida, me chama aqui no chat que te ajudo! 😉"
+  },
+  {
+    "question":"Já possuo minha loja, mas desejo apenas que os produtos sejam instalados, pode ser?",
+    "answer":"Entendo sua solicitação. Para que a customização da sua loja seja feita corretamente conforme os critérios do curso, ela precisa ser criada através do link do formulário de resgate. Assim, todas as configurações futuras serão salvas automaticamente.\n\n Se precisar de mais alguma coisa, estamos à disposição para ajudar!"
+  },
+  {
+    "question":"Já tenho uma loja, quero apenas o tema do curso",
+    "answer":"Entendo sua solicitação. Para que a customização da sua loja seja feita corretamente conforme os critérios do curso, ela precisa ser criada através do link do formulário de resgate. Assim, todas as configurações futuras serão salvas automaticamente.\n\n Se precisar de mais alguma coisa, estamos à disposição para ajudar!"
+  },
+  {
+    "question":"No vídeo fala que o site de vendas é 1 euro nos 3 primeiros meses, e depois de 3 meses qual é o valor?",
+    "answer":"Você pode verificar diretamente no site ou na plataforma para os preços atualizados, pois eles podem ser ajustados. No momento da ativação do plano, você conseguirá visualizar o valor que será cobrado após o período promocional, logo ao lado dos dados do cartão de crédito."
+  },
+  {
+    "question":"Vocês dizem 1 dolar no primeiro mês, e depois é quanto?",
+    "answer":"Você pode verificar diretamente no site ou na plataforma para os preços atualizados, pois eles podem ser ajustados. No momento da ativação do plano, você conseguirá visualizar o valor que será cobrado após o período promocional, logo ao lado dos dados do cartão de crédito."
+  },
+  {
+    "question":"Posso trocar o tema\/banner\/produtos da minha loja?",
+    "answer":"A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema\/banner\/produtos pré-instalados?](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"Posso usar outro tema?",
+    "answer":"A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema\/banner\/produtos pré-instalados?](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"posso instalar outro tema",
+    "answer":"A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema\/banner\/produtos pré-instalados?](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"posso baixar outro tema",
+    "answer":"A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema\/banner\/produtos pré-instalados?](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"pode mudar meus produtos",
+    "answer":"A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema\/banner\/produtos pré-instalados?](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"quero trocar os produtos",
+    "answer":"A gente entrega sua loja já com um tema e os produtos instalados, prontinha pra usar. Depois você pode personalizar como quiser! Esse artigo também pode te ajudar: [Posso mudar o tema\/banner\/produtos pré-instalados?](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000315546-como-mudar-o-banner-da-loja-) 😉 Qualquer outra dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"O tema da loja que vocês instalaram misturou com outro que eu já tinha. O que fazer?",
+    "answer":"Entendi a situação. Pra te ajudar da melhor forma, preciso que nos envie seu **e-mail e senha** de acesso da Shopify. Assim, conseguimos te redirecionar para um atendente. Qualquer dúvida, estou por aqui!"
+  },
+  {
+    "question":"Posso instalar só o tema na minha loja sem os produtos?",
+    "answer":"Entendi que você quer instalar apenas o tema, sem os produtos. Pra te ajudar com isso, preciso que nos envie seu **e-mail e senha** de acesso da Shopify. Assim, conseguimos te encaminhar pra um atendente 😊. Se precisar de algo mais, é só me chamar!"
+  },
+  {
+    "question":"Posso instalar só os produtos na minha loja sem o tema?",
+    "answer":"Entendi que você quer instalar apenas os produtos, sem o tema. Pra te ajudar com isso, preciso que nos envie seu **e-mail e senha** de acesso da Shopify. Assim, conseguimos te encaminhar pra um atendente 😊. Se tiver qualquer dúvida, estou por aqui!"
+  },
+  {
+    "question":"Preciso refazer as configurações da loja se eu trocar de celular para computador?",
+    "answer":"Fica tranquilo, você não precisa configurar tudo de novo. As configurações da sua loja ficam salvas, independentemente do dispositivo que você usar. 😉\n\nPra conferir, é só seguir esse tutorial com o passo a passo: [Como ver sua loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314886-como-visualizar-minha-loja). Qualquer dúvida, estou por aqui pra te ajudar!"
+  },
+  {
+    "question":"Ja tenho conta no brasil, posso continuar?",
+    "answer":"Não é recomendável fazer a alteração de país em uma loja já existente. Por isso, volte à [aula 05](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962) e siga o link da página para criar sua loja conforme indicado pelo expert do curso 🚀"
+  },
+  {
+    "question":"ja tenho conta na shopping mas em servidor brasileiro, vi que tem que mudar pra espanha, como que faço?",
+    "answer":"Não é recomendável fazer a alteração de país em uma loja já existente. Por isso, volte à [aula 05](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414796\/lessons\/1551962) e siga o link da página para criar sua loja conforme indicado pelo expert do curso 🚀"
+  },
+  {
+    "question":"consigo alterar os nomes no menu principal da loja?",
+    "answer":"A shopify passou por uma atualização, e essa opção mudou de lugar, mas o restante do processo continua o mesmo. Para alterar os nomes dos menus da loja: \n\nClique em *Conteúdos* \n\nDepois em *Menus* \n\nÉ só selecionar o menu que deseja editar e pronto! \n\nVocê também pode ver aqui [Onde alterar os menus](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314884-onde-alterar-os-menus-da-loja) 🚀"
+  },
+  {
+    "question":"Não acho o menu Navegação",
+    "answer":"A shopify passou por uma atualização, e essa opção mudou de lugar, mas o restante do processo continua o mesmo. Para alterar os nomes dos menus da loja: \n\nClique em *Conteúdos* \n\nDepois em *Menus* \n\nÉ só selecionar o menu que deseja editar e pronto! \n\nVocê também pode ver aqui [Onde alterar os menus](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314884-onde-alterar-os-menus-da-loja) 🚀"
+  },
+  {
+    "question":"A parte de editar menus está diferente das aulas",
+    "answer":"A shopify passou por uma atualização, e essa opção mudou de lugar, mas o restante do processo continua o mesmo. Para alterar os nomes dos menus da loja: \n\nClique em *Conteúdos* \n\nDepois em *Menus* \n\nÉ só selecionar o menu que deseja editar e pronto! \n\nVocê também pode ver aqui [Onde alterar os menus](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314884-onde-alterar-os-menus-da-loja) 🚀"
+  },
+  {
+    "question":"Onde fica a parte de politicas da loja?",
+    "answer":"A shopify passou por uma atualização, e essa opção mudou de lugar, mas o restante do processo continua o mesmo. Para alterar os nomes dos menus da loja: \n\nClique em *Conteúdos* \n\nDepois em *Menus* \n\nÉ só selecionar o menu que deseja editar e pronto! \n\nVocê também pode ver aqui [Onde alterar os menus](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314884-onde-alterar-os-menus-da-loja) 🚀"
+  },
+  {
+    "question":"preciso configurar o Shopify Payments para os clientes poderem fazer a compra via PayPal?",
+    "answer":"No modelo de Contra Entrega ensinado no curso, não é necessário configurar o Shopify Payments, já que o pagamento é feito diretamente no momento da entrega. Esse método dispensa o uso de gateways de pagamento online. Você pode aprender mais sobre o assunto na [**aula 06-Configurando o formulário de compra**](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414797\/lessons\/1551980). 🚀"
+  },
+  {
+    "question":"configurando o botão no formulário e vinculando o PayPal já é o suficiente?",
+    "answer":"No modelo de Contra Entrega ensinado no curso, não é necessário configurar o Shopify Payments, já que o pagamento é feito diretamente no momento da entrega. Esse método dispensa o uso de gateways de pagamento online. Você pode aprender mais sobre o assunto na [**aula 06-Configurando o formulário de compra**](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414797\/lessons\/1551980). 🚀"
+  },
+  {
+    "question":"como configurar formas de pagamento na sua loja Shopify.",
+    "answer":"No modelo de Contra Entrega ensinado no curso, não é necessário configurar o Shopify Payments, já que o pagamento é feito diretamente no momento da entrega. Esse método dispensa o uso de gateways de pagamento online. Você pode aprender mais sobre o assunto na [**aula 06-Configurando o formulário de compra**](https:\/\/universidade.droplatam.com.br\/c\/conteudo-europa-2-0\/sections\/414797\/lessons\/1551980). 🚀"
+  },
+  {
+    "question":"Quero falar com vocês pelo WhatsApp",
+    "answer":"Nosso suporte não é feito pelo WhatsApp, tá? 😉 Pode mandar sua dúvida por aqui mesmo que a gente te ajuda rapidinho!"
+  },
+  {
+    "question":"Como posso cancelar minha assinatura da Shopify?",
+    "answer":"Para cancelar sua assinatura da Shopify, é preciso desativar sua loja. Dá uma olhada nesse link: [Desativando minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314889-como-desativar-outras-lojas) e se precisar de mais ajuda é só chamar aqui."
+  },
+  {
+    "question":"quero desativar minha loja",
+    "answer":"Para cancelar sua assinatura da Shopify, é preciso desativar sua loja. Dá uma olhada nesse link: [Desativando minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314889-como-desativar-outras-lojas) e se precisar de mais ajuda é só chamar aqui."
+  },
+  {
+    "question":"quero cancelar a assinatura da shopify",
+    "answer":"Para cancelar sua assinatura da Shopify, é preciso desativar sua loja. Dá uma olhada nesse link: [Desativando minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314889-como-desativar-outras-lojas) e se precisar de mais ajuda é só chamar aqui."
+  },
+  {
+    "question":"quero cancelar o plano",
+    "answer":"Para cancelar sua assinatura da Shopify, é preciso desativar sua loja. Dá uma olhada nesse link: [Desativando minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314889-como-desativar-outras-lojas) e se precisar de mais ajuda é só chamar aqui."
+  },
+  {
+    "question":"Como eu cancelo o plano da Shopify?",
+    "answer":"Para cancelar sua assinatura da Shopify, é preciso desativar sua loja. Dá uma olhada nesse link: [Desativando minha loja](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314889-como-desativar-outras-lojas) e se precisar de mais ajuda é só chamar aqui."
+  },
+  {
+    "question":"Posso usar o PayPal para pagar a Shopify, mesmo com endereço do Brasil?",
+    "answer":"O PayPal é aceito pela Shopify como uma das formas de pagamento. Você pode conferir mais informações sobre esse método pelo nosso artigo [Como pagar com Paypal](https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314878-como-pagar-com-paypal-na-shopify) \n\nQualquer outra dúvida, me chama aqui que te ajudo rapidinho!"
+  },
+  {
+    "question":"Está aparecendo esta mensagem pra mim: 'Para que os tributos sejam calculados corretamente, informe o local de sua empresa' e também pede razão social",
+    "answer":"Não se preocupe! 😊 Você **não precisa preencher a razão social**. Mas é importante ficar atento ao endereço que você está usando.\n\n➡️ Lembre-se de usar um **endereço da Espanha** ao configurar sua loja."
+  },
+  {
+    "question":"erro na Dropify",
+    "answer":"Entendi! 😊 Se você já está dentro da plataforma, mas encontrou algum erro ou algo que não está funcionando como esperado, o ideal é falar direto com o nosso suporte educacional.\n\n👉 [suporte.droplatam.com.br](https:\/\/suporte.droplatam.com.br)\n\nEles vão te ajudar com qualquer questão ligada às aulas, integrações ou acesso ao conteúdo."
+  },
+  {
+    "question":"Onde encontro os produtos da minha loja na Shopify?",
+    "answer":"Você pode acessar os produtos da sua loja diretamente pelo painel da Shopify. \n\nDepois de fazer login, é só olhar o menu lateral esquerdo e clicar em **Produtos**. Lá você vai conseguir ver todos os itens cadastrados e mudar informações, se precisar. \n\nSe tiver qualquer dúvida nessa parte, estou por aqui pra te ajudar! 😊"
+  },
+  {
+    "question":"Onde posso ver os produtos da minha loja?",
+    "answer":"Você pode acessar os produtos da sua loja diretamente pelo painel da Shopify. \n\nDepois de fazer login, é só olhar o menu lateral esquerdo e clicar em **Produtos**. Lá você vai conseguir ver todos os itens cadastrados e mudar informações, se precisar. \n\nSe tiver qualquer dúvida nessa parte, estou por aqui pra te ajudar! 😊"
+  },
+  {
+    "question":"Qual a diferença entre Dropify e Shopify?",
+    "answer":"Dropify e Shopify são plataformas diferentes. \n\n📌 A Shopify é a plataforma onde sua loja é criada, personalizada e gerenciada.\n\n📌 Já a **Dropify** é um app que você instala na sua loja Shopify para importar produtos e gerenciar pedidos no modelo dropshipping COD.\n\nElas se conectam, mas têm funções diferentes. 😉"
+  },
+  {
+    "question":"Posso mudar minha loja da **Espanha para a Colômbia**?",
+    "answer":"Para esse tipo de solicitação, o ideal é conversar com nosso time comercial. 😉\n\nVocê pode entrar em contato por aqui:\n👉 [droplatam.com.br\/ajuda-comercial](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial)"
+  },
+  {
+    "question":"Como posso integrar minha loja com algum marketplace?",
+    "answer":"A integração com marketplaces não faz parte do nosso suporte, já que ajudamos apenas na parte de criação da loja. 😅\n\nMas pra continuar aprendendo, você pode acessar o canal de Tira-Dúvidas dentro da plataforma CE10K. Lá, uma inteligência artificial responde as dúvidas mais comuns e você também pode trocar ideias com outros alunos.\n\n✅ Se você comprou o curso CE10K Colômbia, acesse por aqui: [Tira-dúvidas-Colômbia](https:\/\/universidade.droplatam.com.br\/c\/tira-duvidas-ce10k\/)\/n\/n✅ Se foi o curso CE10K Europa, use este link: [Tira-dúvidas-EU](https:\/\/universidade.droplatam.com.br\/c\/tira-duvidas-ce10k-eu\/) \/n\/nQualquer coisa, é só chamar por lá! 😉"
+  },
+  {
+    "question":"Como posso comprar um chip ou telefone na Espanha?",
+    "answer":"Entendo sua dúvida! 😊 Esse tipo de conteúdo não faz parte do curso CE10K, pois o foco é na criação da loja com um investimento acessível.\n\nMas temos uma solução: na Comunidade DropLatam, rolam lives e sessões com especialistas que respondem dúvidas mais específicas em tempo real.\n\n👉 Para saber como participar, fale com nosso setor comercial por aqui: [Comercial Droplatam](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial) \/n\/nSe precisar de mais alguma coisa, estou por aqui! 😉"
+  },
+  {
+    "question":"Como faço para enviar ou processar os pedidos da minha loja?",
+    "answer":"Nosso suporte vai até a finalização da sua loja, mas temos um time especializado em conteúdo que pode te ajudar com o envio e processamento de pedidos.\n\n👉 Você pode acessar este link e clicar em Enviar uma solicitação: [Suporte.Droplatam](https:\/\/suporte.droplatam.com.br\/hc\/pt-br) \/n\/nOu, se preferir, envie um e-mail direto para: suporte@droplatam.com.br\n\nAssim que sua solicitação for recebida, a equipe de conteúdo entra em contato com você o mais rápido possível. Qualquer coisa, estou por aqui! 😉"
+  },
+  {
+    "question":"Por que tem um pedido na loja que fica como pagamento pendente e não prescrito?",
+    "answer":"Nosso suporte vai até a finalização da sua loja, mas temos um time especializado em conteúdo que pode te ajudar com o envio e processamento de pedidos.\n\n👉 Você pode acessar este link e clicar em Enviar uma solicitação: [Suporte.Droplatam](https:\/\/suporte.droplatam.com.br\/hc\/pt-br) \/n\/nOu, se preferir, envie um e-mail direto para: suporte@droplatam.com.br\n\nAssim que sua solicitação for recebida, a equipe de conteúdo entra em contato com você o mais rápido possível. Qualquer coisa, estou por aqui! 😉"
+  },
+  {
+    "question":"Qual moeda devo configurar na minha loja?",
+    "answer":"Boa pergunta! 😊 No CE10K Europa, você deve usar euros (€), já que o foco é vender para clientes na Espanha. Qualquer dúvida, estamos por aqui! 😉"
+  },
+  {
+    "question":"Estou com uma dúvida sobre tráfego pago. Como posso obter ajuda?",
+    "answer":"Entendo sua dúvida! 😊 Esse tipo de conteúdo não faz parte do curso CE10K, pois o foco é na criação da loja com um investimento acessível.\n\nMas temos uma solução: na Comunidade DropLatam, rolam lives e sessões com especialistas que respondem dúvidas mais específicas em tempo real.\n\n👉 Para saber como participar, fale com nosso setor comercial por aqui: [Comercial Droplatam](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial) \/n\/nSe precisar de mais alguma coisa, estou por aqui! 😉"
+  },
+  {
+    "question":"Estou com dúvida sobre anúncios no TikTok ou Facebook Ads. Como posso resolver?",
+    "answer":"Entendo sua dúvida! 😊 Esse tipo de conteúdo não faz parte do curso CE10K, pois o foco é na criação da loja com um investimento acessível.\n\nMas temos uma solução: na Comunidade DropLatam, rolam lives e sessões com especialistas que respondem dúvidas mais específicas em tempo real.\n\n👉 Para saber como participar, fale com nosso setor comercial por aqui: [Comercial Droplatam](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial) \/n\/nSe precisar de mais alguma coisa, estou por aqui! 😉"
+  },
+  {
+    "question":"Estou com problema no anúncio do Facebook, o Facebook aprovou o anúncio porém no horário que eu marquei não tá rodando",
+    "answer":"Entendo sua dúvida! 😊 Esse tipo de conteúdo não faz parte do curso CE10K, pois o foco é na criação da loja com um investimento acessível.\n\nMas temos uma solução: na Comunidade DropLatam, rolam lives e sessões com especialistas que respondem dúvidas mais específicas em tempo real.\n\n👉 Para saber como participar, fale com nosso setor comercial por aqui: [Comercial Droplatam](https:\/\/droplatam.com.br\/pages\/contato-ajuda-comercial) \/n\/nSe precisar de mais alguma coisa, estou por aqui! 😉"
+  },
+  {
+    "question":"Como usar o aplicativo BKreviews na minha loja?",
+    "answer":"Você encontra o passo a passo para usar o BKreviews na **Aula 09 do Módulo 2** do curso, chamada *“Como subir provas sociais na página e vender mais”*. Nessa aula, o expert mostra como configurar o app na sua loja para aumentar a conversão. 🚀\n\n📌 Só lembrando que nosso suporte não cobre erros técnicos específicos do BKreviews, tá? Nesse caso, é melhor falar direto com o suporte deles:\n👉 [BKreviews](https:\/\/www.bkreviews.com.br\/#suporte) \n\nSe pintar qualquer outra dúvida sobre o curso ou sua loja, é só me chamar aqui no chat! 😊"
+  },
+  {
+    "question":"O estoque dos meus produtos está aparecendo zerado. O que devo fazer?",
+    "answer":"Entendo como isso pode causar preocupação! 😕 Nosso suporte vai até a finalização da loja, mas temos uma equipe de conteúdo que pode te ajudar com isso rapidinho.\n\n👉 Acesse: https:\/\/suporte.droplatam.com.br\/hc\/pt-br e clique em *Enviar uma solicitação*.\n\nOu envie um e-mail direto para: suporte@droplatam.com.br\n\nAssim que recebermos sua solicitação, nosso time entra em contato com você o quanto antes. Qualquer outra dúvida, só me chamar! 😉"
+  },
+  {
+    "question":"Como configuro o frete da minha loja?",
+    "answer":"Para configurar o frete da sua loja, recomendo que você assista ao Módulo 02 - Aula 01 - Finalizando as configurações da loja.Essa aula mostra passo a passo como ajustar fretes, taxas e outras personalizações essenciais para deixar sua loja pronta."
+  },
+  {
+    "question":"Fiz a assinatura do plano antes de instalar o app ProStoreAI, e agora??",
+    "answer":"Não se preocupe! Se você cadastrou o cartão antes de instalar o app, não é necessário criar uma nova loja. Basta acessar o ProStore novamente e clicar em **Ativar Plano** - isso te levará automaticamente para o próximo passo do processo, seguindo o fluxo normal que mostramos no curso. Você pode continuar exatamente de onde parou! Se precisar instalar o app ProStore AI, temos um guia completo:\n\n[Como instalar o app ProStore na sua loja]: https:\/\/dropsmartcom-help.freshdesk.com\/support\/solutions\/articles\/156000314855-como-instalar-o-app-prostore-na-minha-loja. Estou à disposição se surgir qualquer outra dúvida! 🚀"
+  },
+  {
+    "question":"Preciso fazer algum investimento inicial para começar a vender?",
+    "answer":"Sim, você precisará fazer alguns investimentos iniciais, mas não se preocupe - são valores acessíveis e com baixo risco! Após o período de teste gratuito da Shopify, será necessário pagar pela assinatura da plataforma. Além disso, para conseguir seus primeiros clientes, você precisará investir em anúncios nas redes sociais (Instagram, Facebook ou TikTok).A grande vantagem do dropshipping é que você não precisa comprar estoque antecipadamente. Você só paga ao fornecedor depois que o cliente compra na sua loja, o que reduz significativamente o risco e o capital inicial necessário.Tem alguma dúvida específica sobre os custos ou sobre como começar com o menor investimento possível?"
+  },
+  {
+    "question":"Quero falar com um atendente.",
+    "answer":"Oi! Pode mandar sua dúvida por aqui mesmo que a gente te ajuda rapidinho 😊\n\nSe for algo que precise de um atendimento especializado, a gente também te direciona certinho, tá bom?"
+  },
+  {
+    "question":"Não consigo conectar com minha conta droplatam espanha",
+    "answer":"Entendi!😊 Se você já está dentro da plataforma, mas encontrou algum erro ou algo que não está funcionando como esperado, o ideal é falar direto com o nosso suporte educacional.\n\n👉 [suporte.droplatam.com.br](https:\/\/suporte.droplatam.com.br)\n\nEles vão te ajudar com qualquer questão ligada às aulas, integrações ou acesso ao conteúdo."
+  },
+  {
+    "question":"Qual é o link para instalar o app ProStore AI na minha loja Shopify?",
+    "answer":"Segue o link para você instalar o app ProStore AI na sua loja Shopify:\n\n👉 [Clique aqui para acessar o app](https:\/\/apps.shopify.com\/one-dollar-ai?locale=pt-BR&preferred_listing_locale=en&show_store_picker=1#adp-details-section)\n\nSe tiver qualquer dificuldade na instalação ou configuração, me avisa por aqui que te ajudo!"
+  },
+  {
+    "question":"Eu abri a minha loja mas naõ estou conseguindo baixar o app",
+    "answer":"Segue o link para você instalar o app ProStore AI na sua loja Shopify:\n\n👉 [Clique aqui para acessar o app](https:\/\/apps.shopify.com\/one-dollar-ai?locale=pt-BR&preferred_listing_locale=en&show_store_picker=1#adp-details-section)\n\nSe tiver qualquer dificuldade na instalação ou configuração, me avisa por aqui que te ajudo!"
+  },
+  {
+    "question":"Eu não consigo encontrar o app para baixar",
+    "answer":"Segue o link para você instalar o app ProStore AI na sua loja Shopify:\n\n👉 [Clique aqui para acessar o app](https:\/\/apps.shopify.com\/one-dollar-ai?locale=pt-BR&preferred_listing_locale=en&show_store_picker=1#adp-details-section)\n\nSe tiver qualquer dificuldade na instalação ou configuração, me avisa por aqui que te ajudo!"
+  },
+  {
+    "question":"A transportadora não atualiza meus pedidos, estão apenas com guias geradas e o fornecedor informou que ja despachou esses pedidos, o que faço?",
+    "answer":"Entendi! Quando a transportadora não atualiza o status dos pedidos mesmo após o envio, o ideal é acionar nosso suporte educacional para que eles possam acompanhar mais de perto e orientar sobre os próximos passos.\n\n👉 Acesse por aqui: [Suporte DropLatam](https:\/\/suporte.droplatam.com.br\/hc\/pt-br)\n\n"
+  },
+  {
+    "question":"Na plataforma só devo cadastrar Colômbia ou posso vender aqui no Brasil?",
+    "answer":"Ótima dúvida! 😊 O recomendado é focar nas vendas para a **Colômbia**, pois é o mercado indicado no curso e onde a estratégia de Contra Entrega está mais otimizada.No Brasil, esse modelo está bastante saturado, o que pode dificultar os resultados."
+  },
+  {
+    "question":"Fiz minha loja na colômbia, qual endereço devo usar?",
+    "answer":"Boa pergunta! 😊 O endereço que deve ser cadastrado na Shopify é o da **Espanha**, conforme orientado pelo expert no curso.\n\nVocê pode usar os mesmos dados nos dois campos de endereço:\n\n📍 **Rua:** Puerta del Sol, 14  \n📍 **Código Postal:** 28013  \n📍 **Cidade:** Madrid  \n📍 **Província:** Comunidad de Madrid  \n📍 **País:** Espanha  \n📞 **Telefone:** +34 756 404 444\n\nSe tiver qualquer dúvida na hora de preencher, me chama aqui que eu te ajudo! 😉"
+  },
+  {
+    "question":"Posso criar outra loja com o mesmo email ?",
+    "answer":"O ideal é **não reutilizar o mesmo e-mail** para criar uma nova loja, para criar a loja do zero e seguir todas as etapas do modelo de Contra Entrega que mostramos no curso, você precisa usar um endereço de e-mail que ainda não tenha cadastro na plataforma."
+  },
+  {
+    "question":"Já tenho uma conta com uma loja na shopify, porém não uso mais, posso ter uma outra loja?",
+    "answer":"O ideal é **não reutilizar o mesmo e-mail** para criar uma nova loja, para criar a loja do zero e seguir todas as etapas do modelo de Contra Entrega que mostramos no curso, você precisa usar um endereço de e-mail que ainda não tenha cadastro na plataforma."
+  },
+  {
+    "question":"Você pode criar uma loja para mim?",
+    "answer":"A criação da loja não é feita automaticamente pela IA. A loja é instalada seguindo o passo a passo da **aula 05** do curso.\n\nNessa aula, o especialista te guia usando um webapp que facilita todo o processo. É só seguir com calma e, se tiver qualquer dúvida no caminho, me chama aqui que te ajudo rapidinho!"
+  },
+  {
+    "question":"Pode criar para mim?",
+    "answer":"A criação da loja não é feita automaticamente pela IA. A loja é instalada seguindo o passo a passo da **aula 05** do curso.\n\nNessa aula, o especialista te guia usando um webapp que facilita todo o processo. É só seguir com calma e, se tiver qualquer dúvida no caminho, me chama aqui que te ajudo rapidinho!"
+  },
+  {
+    "question":"Vocês já configuraram uma loja pra mim, não tem como fazer novamente?",
+    "answer":"A criação da loja não é feita automaticamente pela IA. A loja é instalada seguindo o passo a passo da **aula 05** do curso.\n\nNessa aula, o especialista te guia usando um webapp que facilita todo o processo. É só seguir com calma e, se tiver qualquer dúvida no caminho, me chama aqui que te ajudo rapidinho!"
+  },
+  {
+    "question":"Na minha tela de produtos da Shopify não aparece a opção de metacampos. O que devo fazer?",
+    "answer":"Certo! 😊 Para essa situação, vou acionar um suporte especializado. Eles vão analisar o seu caso e responder em até **1 dia útil** no e-mail que você usou aqui no chat, tudo bem?\n\nA partir de agora, o atendimento sobre esse tema será feito **exclusivamente por e-mail** até que a tratativa seja finalizada. Assim que tudo for resolvido, você pode voltar aqui no chat se precisar de mais alguma coisa!"
+  },
+  {
+    "question":"Não consigo achar o ID nos produtos, o que fazer?",
+    "answer":"Certo! 😊 Para essa situação, vou acionar um suporte especializado. Eles vão analisar o seu caso e responder em até **1 dia útil** no e-mail que você usou aqui no chat, tudo bem?\n\nA partir de agora, o atendimento sobre esse tema será feito **exclusivamente por e-mail** até que a tratativa seja finalizada. Assim que tudo for resolvido, você pode voltar aqui no chat se precisar de mais alguma coisa!"
+  },
+  {
+    "question":"Tentei integrar o produto na Shopify, mas ao clicar em 'vincular a um produto que já existe na sua loja', o item não aparece na lista. O que fazer?",
+    "answer":"Entendi! 😊 Nesse caso, o ideal é acionar diretamente o time da Universidade DropLatam, que é especializado em resolver esse tipo de situação de integração entre produtos e Shopify.\n\n👉 Você pode entrar em contato com eles por aqui: [suporte.droplatam.com.br](https:\/\/suporte.droplatam.com.br)\n\nEles vão conseguir te orientar certinho!"
+  },
+  {
+    "question":"Migrei um produto da droplatan com variantes, mas as variantes não vieram, como fazer para importar tudo?",
+    "answer":"Entendi! 😊 Nesse caso, o ideal é acionar diretamente o time da Universidade DropLatam, que é especializado em resolver esse tipo de situação de integração entre produtos e Shopify.\n\n👉 Você pode entrar em contato com eles por aqui: [suporte.droplatam.com.br](https:\/\/suporte.droplatam.com.br)\n\nEles vão conseguir te orientar certinho!"
+  },
+  {
+    "question":"Posso abrir e configurar minha loja usando apenas o celular?",
+    "answer":"Sim! Você consegue fazer as configurações da loja pelo celular, mas se puder usar um computador, vai facilitar bastante o processo. 😊. Mas fique tranquilo: se tiver dúvidas ou travar em alguma parte, é só me chamar aqui que te ajudo!"
+  },
+  {
+    "question":"Como desativar a opção 'adicionar ao carrinho' no app Releasit?",
+    "answer":"Entendi! 😊 Nesse caso, o ideal é falar diretamente com o time da Universidade DropLatam. Eles são especialistas nesse tipo de configuração no Releasit e vão conseguir te orientar certinho.\n\n👉 Acesse por aqui: [suporte.droplatam.com.br](https:\/\/suporte.droplatam.com.br)"
+  },
+  {
+    "question":"Instalei o WordPress, depois desinstalei, mas o erro continua. O que devo fazer?",
+    "answer":"Entendi! 😊 Nesse caso, o ideal é falar diretamente com o time da Universidade DropLatam. Eles são especialistas nesse tipo de situação e vão conseguir te orientar certinho sobre os próximos passos.👉 Acesse por aqui: [suporte.droplatam.com.br](https:\/\/suporte.droplatam.com.br)"
+  },
+  {
+    "question":"Como funciona a precificação na minha loja?",
+    "answer":"A precificação da loja já vem configurada automaticamente com base nas regras do modelo de Contra Entrega. 😊\n\nMas se quiser se aprofundar nesse assunto, você pode acessar o canal de Tira-Dúvidas dentro da plataforma CE10K. Lá você pode conversar com uma IA treinada para responder perguntas como essa e também trocar ideias com outros alunos.\n\n✅ Se você comprou o curso CE10K Colômbia, acesse por aqui: [Tira-dúvidas-Colômbia](https:\/\/universidade.droplatam.com.br\/c\/tira-duvidas-ce10k\/)\n\n✅ Se foi o curso CE10K Europa, use este link: [Tira-dúvidas-EU](https:\/\/universidade.droplatam.com.br\/c\/tira-duvidas-ce10k-eu\/)\n\nQualquer dúvida, estou por aqui também!"
+  },
+  {
+    "question":"Segui a aula, mas o mercado principal apareceu como Brasil em vez de Espanha. Desativei o Brasil e mantive apenas a Colômbia ativa. Preciso recriar a loja para corrigir isso?",
+    "answer":"Olá! 😊 Entendo como isso pode gerar confusão. Recomendo assistir à Módulo 02 – Aula 01 “Finalizando as configurações da loja”, onde mostramos passo a passo como definir mercados, fretes, taxas e personalizações. Nessa aula você vai aprender a selecionar corretamente a Espanha como mercado principal sem precisar recriar toda a loja. Depois de assistir, revise suas configurações conforme explicado e veja se tudo se ajusta. Se ainda tiver dúvidas, estou aqui para ajudar!"
+  },
+  {
+    "question":"O app Pro Store AI abre em branco",
+    "answer":"Vamos resolver rapidinho! 😊\n1️⃣ Abra o **Pro Store AI** numa janela anônima.\n2️⃣ Se persistir, limpe cache + cookies e tente de novo.\n3️⃣ Se ainda der erro, desinstale e reinstale o app pelo link:\n👉 https:\/\/apps.shopify.com\/one-dollar-ai?show_store_picker=1#adp-details-section\n\nDepois me avise — se o erro continuar."
+  },
+  {
+    "question":"Quando clico em abrir o Pro Store AI dá erro",
+    "answer":"Vamos resolver rapidinho! 😊\n1️⃣ Abra o **Pro Store AI** numa janela anônima.\n2️⃣ Se persistir, limpe cache + cookies e tente de novo.\n3️⃣ Se ainda der erro, desinstale e reinstale o app pelo link:\n👉 https:\/\/apps.shopify.com\/one-dollar-ai?show_store_picker=1#adp-details-section\n\nDepois me avise — se o erro continuar."
+  },
+  {
+    "question":"Erro 500 ao abrir o app Pro Store AI",
+    "answer":"Vamos resolver rapidinho! 😊\n1️⃣ Abra o **Pro Store AI** numa janela anônima.\n2️⃣ Se persistir, limpe cache + cookies e tente de novo.\n3️⃣ Se ainda der erro, desinstale e reinstale o app pelo link:\n👉 https:\/\/apps.shopify.com\/one-dollar-ai?show_store_picker=1#adp-details-section\n\nDepois me avise — se o erro continuar."
+  },
+  {
+    "question":"ProStore AI não carrega a página",
+    "answer":"Vamos resolver rapidinho! 😊\n1️⃣ Abra o **Pro Store AI** numa janela anônima.\n2️⃣ Se persistir, limpe cache + cookies e tente de novo.\n3️⃣ Se ainda der erro, desinstale e reinstale o app pelo link:\n👉 https:\/\/apps.shopify.com\/one-dollar-ai?show_store_picker=1#adp-details-section\n\nDepois me avise — se o erro continuar."
+  },
+  {
+    "question":"Preciso acessar novamente o formulário da loja que comecei a montar, mas não finalizei. Como faço para continuar o cadastro?",
+    "answer":"Opa! 😄 Se você já iniciou o cadastro da sua loja, não precisa preencher o formulário de novo.\nz\nBasta acessar o criador de loja por este link:👉[Página Login] https:\/\/droplatam.prostore.ai\/auth\/login Use o **e-mail** que você informou no formulário e a seguinte **senha padrão**:  🔑 **dropsmart@1**\n\nSe tiver qualquer dificuldade para acessar, me chama aqui que eu te ajudo! 😉"
+  },
+  {
+    "question":"Perdi o acesso ao criador da loja. Como posso entrar de novo?",
+    "answer":"Opa! 😄 Se você já iniciou o cadastro da sua loja, não precisa preencher o formulário de novo.\nz\nBasta acessar o criador de loja por este link:👉[Página Login] https:\/\/droplatam.prostore.ai\/auth\/login Use o **e-mail** que você informou no formulário e a seguinte **senha padrão**:  🔑 **dropsmart@1**\n\nSe tiver qualquer dificuldade para acessar, me chama aqui que eu te ajudo! 😉"
+  },
+  {
+    "question":"Já preenchi meus dados, mas não finalizei a loja. Como retomo?",
+    "answer":"Opa! 😄 Se você já iniciou o cadastro da sua loja, não precisa preencher o formulário de novo.\nz\nBasta acessar o criador de loja por este link:👉[Página Login] https:\/\/droplatam.prostore.ai\/auth\/login Use o **e-mail** que você informou no formulário e a seguinte **senha padrão**:  🔑 **dropsmart@1**\n\nSe tiver qualquer dificuldade para acessar, me chama aqui que eu te ajudo! 😉"
+  },
+  {
+    "question":"Comecei a criar minha loja, mas não terminei. Como retomar o processo?",
+    "answer":"Opa! 😄 Se você já iniciou o cadastro da sua loja, não precisa preencher o formulário de novo.\nz\nBasta acessar o criador de loja por este link:👉[Página Login] https:\/\/droplatam.prostore.ai\/auth\/login Use o **e-mail** que você informou no formulário e a seguinte **senha padrão**:  🔑 **dropsmart@1**\n\nSe tiver qualquer dificuldade para acessar, me chama aqui que eu te ajudo! 😉"
+  }
+]
