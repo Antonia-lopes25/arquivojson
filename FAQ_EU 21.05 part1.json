@@ -1869,5 +1869,53 @@
       ],
       "last_updated": "19/05/2025"
     }
+  },
+  "id": 87,
+    "question1": "Não estou conseguindo logar na plataforma, e agora?",
+    "question1_variation": [
+      "Não consigo acesso a paltaforma, como faço?",
+      "Ocorreu um erro ao acessar a plataforma,"
+    ],
+    "question2": "Você se refere a qual plataforma? A página de resgate de loja, plataforma de acesso ao curso, ou a plataforma Droplatam?",
+    "options": {
+      "PAGINA_RESGATE": {
+        "answer": "Show! Se você já iniciou o cadastro da sua loja, não precisa preencher o formulário de novo.\n\nBasta acessar o criador de loja por este link:👉 [Página Login]https://droplatam-c.prostore.ai/auth/login Use o **e-mail** que você informou no formulário e a seguinte **senha padrão**:**dropsmart@1**\n\nSe tiver qualquer dificuldade para acessar, me chama aqui que eu te ajudo! 😉",
+        "activation_condition": {
+          "must_include_terms": [
+            "acesso",
+            "formulário",
+            "login",
+            "senha padrão",
+            "resgatar loja",
+            "criador de loja"
+          ],
+          "match_type": "contains_any"
+        },
+        "force_exclusive": true
+      },
+      "PLATAFORMA_ACESSO_CURSO": {
+        "answer": "Show! Nesse caso, o ideal é acionar nosso suporte educacional para que eles possam acompanhar mais de perto te orientar.\n\n👉 Acesse por aqui: [Suporte DropLatam](https://suporte.droplatam.com.br/hc/pt-br)\n\n",
+        "activation_condition": {
+          "must_include_terms": [
+            "acesso ao curso",
+            "acesso as aulas"
+          ],
+          "match_type": "contains_any"
+        },
+        "force_exclusive": true
+      },
+      "PLATAFORMA_DROPLATAM": {
+        "answer": "Show! Nesse caso, o ideal é acionar nosso suporte educacional para que eles possam acompanhar mais de perto te orientar.\n\n👉 Acesse por aqui: [Suporte DropLatam](https://suporte.droplatam.com.br/hc/pt-br)\n\n",
+        "activation_condition": {
+          "must_include_terms": [
+            "plataforma droplatam",
+            "plataforma de integração"
+          ],
+          "match_type": "contains_any"
+        },
+        "force_exclusive": true,
+        "last_updated": "27/05/2025"
+      }
+    }
   }
 ]
