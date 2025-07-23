@@ -1,45 +1,121 @@
-[
-  {
-    "empresa": {
-      "nome": "DROPLATAM",
-      "descricao": "Empresa de tecnologia que oferece dois produtos: um curso sobre dropshipping COD e uma loja para prática dos conhecimentos adquiridos. Visa ajudar e-commercers e dropshippers a comercializarem produtos sem estoque em mercados específicos. Todos os produtos e serviços ofertados e vendidos pela Droplatam são legais e seguros dentro dos termos da lei vigente."
-    },
-    "prompt": "Você é o assistente da Droplatam. Responda exclusivamente com base no conteúdo autorizado no banco de dados. Nunca invente, nem sugira conteúdos ou ações que não estejam claramente descritos nos dados fornecidos. Caso a informação solicitada não esteja presente, responda apenas: 'Encaminharei ao suporte especializado.'",
-    "authorized_links": [
-      "https://lojadroplatam.prostore.ai/pages/ce10k-loja-eu-webapp",
-      "https://suporte.droplatam.com.br/hc/pt-br/articles/34044161120155-Como-Configurar-um-Domínio-Hostgator-na-Shopify",
-      "https://suporte.droplatam.com.br/hc/pt-br/articles/29761543899419-Como-fazer-a-integra%C3%A7%C3%A3o-entre-Shopify-e-DropLatam",
-      "https://suporte.droplatam.com.br/hc/pt-br/articles/30707701157531-Como-realizar-a-Autenticação-de-Identidade",
-      "https://droplatam.typeform.com/to/aSPgKPFt",
-      "https://droplatam.com.br/pages/contato-ajuda-comercial",
-      "https://suporte.droplatam.com.br/hc/pt-br",
-      "https://www.mercadopago.com.br/conta/cartao-de-credito"
-    ],
-    "Instructions": [
-      "Responda apenas com base nos dados do banco de conhecimento.",
-      "Nunca sugira ações que não tenham sido solicitadas diretamente.",
-      "Quando a pergunta não estiver no FAQ, peça mais informações antes de responder.",
-      "Se a pergunta envolver e-mail ou senha, encaminhe para o suporte especializado.",
-      "Evite qualquer tipo de interpretação ou adivinhação da intenção do usuário.",
-      "Não gere respostas longas, criativas ou interpretativas — seja direto e objetivo."
-    ],
-    "permitido_mencionar_faq": false,
-    "permitido_dizer_que_nao_tem_dados": false,
-    "mensagem_padrao_quando_fora_do_faq": "Encaminharei ao suporte especializado.",
-    "restricoes": {
-      "permitido_inventar": false,
-      "responder_apenas_com_base_em_dados": true,
-      "comportamento_deterministico": true,
-      "temperature_simulada": 0.0
-    },
-    
-        "instruction_id": "whatsapp_usage_control_v1",
-        "title": "Envio de WhatsApp apenas com indicação no FAQ",
-        "audience": "assistant",
-        "language": "pt-BR",
-        "content": "A IA não deve fornecer números de WhatsApp por conta própria.\n\nO suporte de lojas da DropLatam não realiza atendimento via WhatsApp — apenas por chat e e-mail.\n\nApenas dois setores da empresa usam WhatsApp para falar com os alunos:\n1. Comercial\n2. Customer Success\n\nO número de WhatsApp só pode ser enviado se estiver claramente mencionado na pergunta e na resposta do FAQ.\n\nJamais assuma que o WhatsApp deve ser incluído — siga estritamente o que estiver documentado no FAQ."
-      },
-      {
-        "rule": "A IA só pode sugerir a criação de uma nova loja ou conta Shopify quando explicitamente indicado no conteúdo da base (ex: quando a loja foi criada fora do link da aula 05 e isso estiver mapeado como impeditivo)."
-      }
-]
+Nessa aula eu vou explicar como você deve proceder para receber sua loja profissional,
+toda configurada e com produtos pronta para vender. Abaixo dessa aula vai ter link para
+acessar o formulário de resgate de loja.
+Nessa página você vai preencher os seus dados e você vai ser redirecionado para o nosso
+sistema de criação de lojas.
+Idealmente utilize o mesmo email que você usou na hora de fazer a compra desse curso e
+também na hora de se cadastrar nessa plataforma aqui onde você está assistindo os vídeos,
+mas caso apareça para você uma tela dizendo que o seu e-mail está errado, você deve
+acessar o link a seguir e realizar seu cadastro com outro e-mail:
+https://droplatam.prostore.ai/auth/signup/full-form. Garantam que vocês estão colocando
+o e-mail de vocês, seu nome completo e o número de vocês, o número que vocês utilizam,
+de preferência um número que tem WhatsApp, por quê? Porque nós vamos mandar o seu
+login e sua senha por lá, nós vamos mandar dados de acesso e comunicações importantes
+por lá, pra que você receba sua loja e pra que você não se perca no processo. Então é
+importante você colocar o seu número correto.
+E pronto, agora você vai clicar em quero participar.
+Detalhe importante, se você puder fazer esse passo a passo no computador, é melhor, é
+mais fácil de fazer, senão siga pelo celular, mas eu recomendo que você faça pelo
+computador. Então essa primeira etapa aqui é a etapa onde nós criamos a conta na Shopify.
+A Shopify é a plataforma onde nós vamos hospedar a loja, onde a loja vai receber os
+pedidos, por onde você vai conectar com a DropLatam para você poder receber esses
+pedidos e enviar os pedidos para o fornecedor acompanhar todo esse processo. A Shopify
+é basicamente a plataforma principal da sua operação. Então a gente precisa criar uma
+conta nela, tá certo? Mas tem detalhe importante aqui que é, você precisa criar a conta na
+Espanha.
+Se a sua conta não for criada na Espanha você vai ter vários problemas. Primeiro, você
+não vai conseguir integrar sua loja com a Drop Latam. Segundo, você não vai conseguir
+ranquear a sua loja. Terceiro, você vai ter problema de integração com as contas de
+anúncio se a sua Shopify não estiver criada no país correto.
+Nesse caso, onde nós vamos rodar? Na Espanha, então seu Shopify precisa estar criada
+na Espanha. E aí pra fazer isso, você vai preencher o formulário de resgate de loja e será
+redirecionado para a aula de criação de conta na Shopify. Nessa aula serão
+disponibilizados dois botões, sendo eles: ‘Abrir Shopify’ e ‘Continuar’. Você vai clicar
+nesse botão abrir Shopify, vai colocar o seu email vai clicar em começar teste. Você será
+redirecionada para a página em que você precisará criar uma senha para sua conta e
+escolher a localização da loja. Nessa página você vai trocar o país para Espanha e criar
+sua senha, não esqueça de fazer isso, essa é a parte mais importante desse passo a passo
+e onde os alunos mais erram.
+Troque o país de localização da sua loja, crie sua senha e clique em criar conta. Agora sua
+conta já vai ser criada, e você será redirecionada para um passo-a-passo de configuração
+do mercado da sua loja (Where would you like to sell?), mas você pode simplesmente
+clicar em ‘I don’t want help setting up’ para pular essas instruções.
+Prontinho, a conta tá criada, agora você pode voltar para a aula do curso onde constam os
+botões ‘abrir shopify’ e ‘continuar’, aí você precisa clicar em continuar e você será
+redirecionada para a parte do curso que ensina como instalar o aplicativo ProStore AI.
+Na sequência você deve instalar o aplicativo ProStore AI que é o nosso aplicativo e ele te
+permite receber a loja toda configurada. Então você deve clicar em ‘instalar ProStore AI’.
+Você será redirecionada para a página de instalação do app, onde você deve clicar em
+‘instalar’, e você será redirecionada para a Shopify e aparecerá uma tela escrito ‘instalar
+aplicativo’ e mais uma vez você deve clicar em ‘instalar’.
+Depois disso o aplicativo vai solicitar um código, esse código serve pra provar que você
+é realmente o nosso aluno e que você tem direito a receber essa loja. Então nós vamos
+voltar aqui na plataforma das aulas do curso, vamos copiar o código que consta na aula
+do curso, vamos copiar o código especial que é feito só para você, vamos voltar para a
+shopify, colar esse código e clicar em validar código. Bem, agora o aplicativo já está
+liberado para você. Vamos só voltar ali na plataforma do curso, clicar em continuar.
+Ao clicar em Continuar, você será redirecionada para o Passo 3: Sua loja está quase
+pronta! e aqui nessa etapa você pode clicar em ‘acessar app’ para ser redirecionado para
+o aplicativo, onde você poderá realizar as demais configurações da sua loja.
+Ao acessar o app você vai escolher a cor que você quer pra sua loja e não se preocupe
+essas cores já foram selecionadas pela nossa equipe de designers, todas são boas escolhas,
+você só precisa escolher a que você gosta mais, tá? Então eu vou escolher as cores e
+depois os banners.
+Após concluir essa etapa, você precisará ativar o plano na Shopify.
+Sem o plano da Shopify, você não consegue começar a vender, você não consegue
+desbloquear sua loja e acima de tudo, você não consigue receber a minha loja. Então eu
+preciso ativar o plano da Shopify. A Shopify, ela não é uma plataforma barata porque ela
+é a melhor plataforma do mundo, é onde várias das maiores lojas, os maiores ecommerces
+do mundo se encontram, é onde você vai encontrar o maior número de aplicações,
+integrações, suportes pro seu negócio, é onde você vai encontrar maior comunidade, a
+maior estabilidade, robustez pro seu negócio, ou seja, é a melhor escolha, mas obviamente
+com a plataforma sim é mais cara. Como nós somos parceiros da Shopify, nós temos uma
+promoção para você, onde você não paga pelos três primeiros dias, ou seja, você vai poder
+testar agora por três dias sem preocupação nenhuma.
+Depois desses três dias, você só vai precisar pagar um dólar por mês pelos três primeiros
+meses, ou seja, você vai pagar cinco reais por mês pra usar essa plataforma.
+Para assinar o plano você vai clicar aqui em ‘ativar plano’, você vai selecionar o plano
+Basic.
+Não funciona se for a starter porque ela não te oferece os recursos que você precisa e
+todas essas outras são mais caras, você não precisa dessas opções, essa opção Basic te
+atende com o que você realmente necessita. Então você vai selecionar o plano Basic, você
+vai preencher os seus dados de pagamento e após preencher os dados de pagamento, você
+precisa colocar endereço, mas esse endereço precisa ser da Espanha. Não se preocupa que
+esse endereço aqui não vai ficar público, ele não vai ser apresentado pros seus clientes,
+ele é só endereço pra você poder vincular ao plano. Caso você não tenha encontrado um
+endereço da Espanha aleatório para utilizar, você pode utilizar o endereço a seguir:
+Rua: Avinguda d'Alemanya, 14
+Código Postal: 07003
+Cidade: Palma
+Província: Illes Balears
+Telefone: +34684240741
+País: Espanha
+Pronto, agora você deve clicar em ‘Subscribe’ ou ‘Assinar’.
+Você será redirecionada para a página em que é necessário inserir novamente o endereço
+da Espanha para identificar que sua loja está localizada na Espanha. Você pode preencher
+o campo do telefone com o seu telefone do Brasil, mas é preciso inserir o código ‘+55’
+antes de informar o ddd e o número de telefone. Depois é só clicar em Confirmar.
+A sua loja já está com plano ativo. Uma vez que seu plano for ativado, em alguns minutos
+sua loja já vai ser configurada automaticamente pra você. Os produtos já vão ser
+instalados e a sua loja já vai ser customizada. Se você clicar na aba ‘produtos’ da shopify,
+por exemplo, vai aparecer os produtos. Se você clicar aqui em visualizar a loja, em Online
+Store, na barra lateral esquerda da Shopify, você já vai conseguir ver a loja configurada
+do jeito que você selecionou.
+A última coisa que falta fazer aqui pra ter a loja pronta e pública, é remover a senha,
+porque essa é uma senha que a Shopify usa pra que ninguém consiga ver a sua loja. Então
+vamos clicar na barra lateral esquerda da página inicial da Shopify, em Canais de Venda
+> Loja online > Preferências e aí você vai descer até a última parte onde tem ‘password
+protection’, vai tirar a proteção e vai clicar em salvar.
+Se mesmo com tudo isso você ainda tiver alguma dificuldade, você pode mandar uma
+mensagem pro nosso suporte clicando aqui, ou falar diretamente através do WhatsApp
+em falar com o suporte:
+https://api.whatsapp.com/send/?phone=15035126938&text&type=phone_number&app_
+absent=0. Esse suporte é exclusivo pra parte de lojas, então se você tem alguma dúvida a
+nível de conteúdo eles não vão poder te ajudar, mas se for alguma coisa referente a receber
+a sua loja é só você falar com ele diretamente por aqui ou em falar com suporte. E por
+último, quando você preencheu esse formulário aqui você já recebeu no seu email e no
+WhatsApp o login de acesso e a senha pra esse sistema. Caso você pare no meio do
+processo, caso você se perca, caso você precise começar de novo, você simplesmente faz
+o acesso como está no seu WhatsApp e no seu email, coloca o login, coloque a senha e
+você já vai conseguir retomar. Então é isso, espero que você aproveite a sua loja e na
+sequência assista às próximas aulas pra que você extrair o máximo dessa oportunidade.
